@@ -1,5 +1,5 @@
 ---
-date: 2022-11-26T23:48:05.000Z
+date: 2022-11-25T23:48:05.000Z
 layout: post
 title: How to open a XM trading account
 subtitle: 'Just about 3min will be required until you complete XM account application.'
