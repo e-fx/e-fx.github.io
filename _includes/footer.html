@@ -35,14 +35,11 @@
     {% include links.html %}
 
     <p>
-      <span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="https://rossener.com" target="_blank" class="creator">Thiago Rossener</a>
+      <span>Introducing </span> FX Brokers <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="" target="_blank" class="creator">e-fx</a>
     </p>
 </footer>
 
 {% assign social_urls = '' %}
-{% if site.github_username %}
-    {% assign social_urls = social_urls | append: '"https://github.com/' | append: site.github_username | append: '",' %}
-{% endif %}
 {% if site.facebook_username %}
     {% assign social_urls = social_urls | append: '"https://www.facebook.com/' | append: site.facebook_username | append: '",' %}
 {% endif %}
@@ -54,9 +51,6 @@
 {% endif %}
 {% if site.instagram_username %}
     {% assign social_urls = social_urls | append: '"https://www.instagram.com/' | append: site.instagram_username | append: '",' %}
-{% endif %}
-{% if site.linkedin_username %}
-    {% assign social_urls = social_urls | append: '"https://www.linkedin.com/in/' | append: site.linkedin_username | append: '",' %}
 {% endif %}
 
 <script type="application/ld+json">
