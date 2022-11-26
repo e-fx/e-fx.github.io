@@ -1,23 +1,26 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2022-011-26T23:48:05.000Z
 layout: post
-title: Welcome to the desert of the real.
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: How to open a XM trading account
+subtitle: 'Just about 3min will be required until you complete XM account application.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  assets/img/open-account.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  assets/img/open-account.jpg
 category: blog
 tags:
-  - welcome
-  - blog
-author: mranderson
+  - xm
+  - account
+  - start
+  - open
+author: e-fx
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+and you can start trading within 30 minutes in the fastest case. All the certificates can be sent online and you won't be bothered by postal mail or FAX.
+After you register your personal information, you will receive the account information of Members Area. Then you are asked to upload your certificates such as personal identification or certificate of residence from your exclusive bar area. We will confirm the information you provided and the record on your certificates, then your real account will be validated within 30 minute till a day. The validation will enable you to enjoy all the services form XM.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
