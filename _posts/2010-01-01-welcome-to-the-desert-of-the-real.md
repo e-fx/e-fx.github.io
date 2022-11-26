@@ -19,7 +19,7 @@ tags:
 author: e-fx
 paginate: true
 ---
-and you can start trading within 30 minutes in the fastest case. All the certificates can be sent online and you won't be bothered by postal mail or FAX.
+XM can be safely recommended to those who are interested in professional trading with high order processing speed and you can start trading within 3 minutes in the fastest case. All the certificates can be sent online and you won't be bothered by postal mail or FAX.
 After you register your personal information, you will receive the account information of Members Area. Then you are asked to upload your certificates such as personal identification or certificate of residence from your exclusive bar area. We will confirm the information you provided and the record on your certificates, then your real account will be validated within 30 minute till a day. The validation will enable you to enjoy all the services form XM.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
