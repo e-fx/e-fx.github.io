@@ -18,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email:
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -100,6 +100,3 @@ exclude: [
   'gulpfile.js',
   'README.md'
 ]
-
-# Theme
-version: v3.1.2
