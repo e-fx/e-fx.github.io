@@ -1,8 +1,8 @@
 ---
 date: 2022-11-25T23:48:05.000Z
 layout: post
-title: How to open a XM trading account
-subtitle: 'Just about 3min will be required until you complete XM account application.'
+title: How to open a XM trading account and get $30 Bonus?
+subtitle: 'Just about 2 minutes will be required until you complete XM account application.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
