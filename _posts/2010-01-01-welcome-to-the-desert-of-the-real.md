@@ -6,9 +6,9 @@ subtitle: 'Just about 2 minutes will be required until you complete XM account a
 description: >-
   XM can be safely recommended to those who are interested in professional trading with high order processing speed.
 image: >-
-  assets/img/open-account.jpg
+  /assets/img/open-account.jpg
 optimized_image: >-
-  assets/img/open-account.jpg
+  /assets/img/open-account-s.jpg
 category: blog
 tags:
   - xm
@@ -31,13 +31,16 @@ After registering your personal information, you will receive the account inform
 
 #### Step2. Fill in the required fields
 
-   In the first section, you need to fill in the following details:
+In the first section, you need to fill in the following details:
 
 - First Name and Last Name
 - Country of Residence
 - Preferred Language
 - Phone Number
 - Email Address
+
+
+![placeholder](https://placehold.it/800x400 "Large example image")
 
 #### Step3. Choose your account type
 
@@ -52,48 +55,3 @@ After the registration, you can also open multiple trading accounts of different
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 
-
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
