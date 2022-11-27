@@ -4,8 +4,7 @@ layout: post
 title: How to open a XM trading account and get $30 Bonus?
 subtitle: 'Just about 2 minutes will be required until you complete XM account application.'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  XM can be safely recommended to those who are interested in professional trading with high order processing speed.
 image: >-
   assets/img/open-account.jpg
 optimized_image: >-
@@ -19,14 +18,30 @@ tags:
 author: e-fx
 paginate: true
 ---
-XM can be safely recommended to those who are interested in professional trading with high order processing speed and you can start trading within 3 minutes in the fastest case. All the certificates can be sent online and you won't be bothered by postal mail or FAX.
-After you register your personal information, you will receive the account information of Members Area. Then you are asked to upload your certificates such as personal identification or certificate of residence from your exclusive bar area. We will confirm the information you provided and the record on your certificates, then your real account will be validated within 30 minute till a day. The validation will enable you to enjoy all the services form XM.
+XM can be safely recommended to those who are interested in professional trading with high order processing speed and you can start trading within 30 minutes in the fastest case. 
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> All the certificates can be sent online and you won't be bothered by postal mail or FAX.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Please make sure that you are filling in the correct personal information.
+After registering your personal information, you will receive the account information of Members Area. Then you are asked to upload **your certificates such as personal identification or certificate of residence** from your exclusive bar area. Once your real account validated, you will be enable to enjoy all the services form XM.
 
-## Inline HTML elements
+## The account opening is totally free
+
+1. Go to XM Official Website
+
+It may take only 2 minutes to complete the online registration with XM.
+
+2. Fill in the required fields
+
+In the first section, you need to fill in the following details:
+
+- First Name and Last Name
+- Country of Residence
+- Preferred Language
+- Phone Number
+- Email Address
+
+xm real account registration
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
