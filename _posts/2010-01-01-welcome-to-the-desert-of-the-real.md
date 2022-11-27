@@ -28,9 +28,6 @@ After registering your personal information, you will receive the account inform
 ## The account opening is totally free
 
 1. Go to XM Official Website
-
-   It may take only 2 minutes to complete the online registration with XM.
-
 2. Fill in the required fields
 
    In the first section, you need to fill in the following details:
