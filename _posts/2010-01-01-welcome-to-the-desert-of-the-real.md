@@ -25,11 +25,11 @@ XM can be safely recommended to those who are interested in professional trading
 Please make sure that you are filling in the correct personal information.
 After registering your personal information, you will receive the account information of Members Area. Then you are asked to upload **your certificates such as personal identification or certificate of residence** from your exclusive bar area. Once your real account validated, you will be enable to enjoy all the services form XM.
 
-## The account opening is totally free
+### The account opening is totally free
 
-### Step1. Go to [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
+#### Step1. Go to [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
-### Step2. Fill in the required fields
+#### Step2. Fill in the required fields
 
    In the first section, you need to fill in the following details:
 
@@ -39,7 +39,7 @@ After registering your personal information, you will receive the account inform
 - Phone Number
 - Email Address
 
-### Step3. Choose your account type
+#### Step3. Choose your account type
 
 Before proceeding to the next step, you must choose the account type of XM.
 
