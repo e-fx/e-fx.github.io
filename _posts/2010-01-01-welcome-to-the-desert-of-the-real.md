@@ -29,11 +29,11 @@ After registering your personal information, you will receive the account inform
 
 1. Go to XM Official Website
 
-It may take only 2 minutes to complete the online registration with XM.
+   It may take only 2 minutes to complete the online registration with XM.
 
 2. Fill in the required fields
 
-In the first section, you need to fill in the following details:
+   In the first section, you need to fill in the following details:
 
 - First Name and Last Name
 - Country of Residence
