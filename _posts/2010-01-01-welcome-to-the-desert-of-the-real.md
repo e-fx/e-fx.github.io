@@ -40,7 +40,7 @@ In the first section, you need to fill in the following details:
 - Email Address
 
 
-![placeholder](/assets/img/xm-procedure.jpg "xm-open-account-procedure")
+![placeholder](/assets/img/xm-procedure.jpg "Large example image")
 
 #### Step3. Choose your account type
 
@@ -52,7 +52,8 @@ And also you can choose MetaTrader4 (MT4) or MetaTrader5 (MT5) platforms.
 
 After the registration, you can also open multiple trading accounts of different account types.
 
-![placeholder](/assets/img/xm-account-type.jpg "xm-account-type")
+![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+
 
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
