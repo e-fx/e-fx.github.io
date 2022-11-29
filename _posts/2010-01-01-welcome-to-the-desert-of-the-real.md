@@ -40,7 +40,7 @@ In the first section, you need to fill in the following details:
 - Email Address
 
 
-![placeholder](/assets/img/open-account.jpg "Large example image")
+![placeholder](/assets/img/procedure.jpg "Large example image")
 
 #### Step3. Choose your account type
 
