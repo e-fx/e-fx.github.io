@@ -52,6 +52,8 @@ And also you can choose MetaTrader4 (MT4) or MetaTrader5 (MT5) platforms.
 
 After the registration, you can also open multiple trading accounts of different account types.
 
+![placeholder](/assets/img/xm-account-type.jpg "xm-account-type")
+
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 
