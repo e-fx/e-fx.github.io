@@ -20,7 +20,7 @@ paginate: true
 ---
 XM can be safely recommended to those who are interested in professional trading with high order processing speed and you can start trading within 30 minutes in the fastest case. 
 
-> All the certificates can be sent online and you won't be bothered by postal mail or FAX.
+> All the certificates can be sent online and you won't be bothered by postal mail or fax.
 
 Please make sure that you are filling in the correct personal information.
 After registering your personal information, you will receive the account information of Members Area. Then you are asked to upload **your certificates such as personal identification or certificate of residence** from your exclusive bar area. Once your real account validated, you will be enable to enjoy all the services form XM.
@@ -55,28 +55,22 @@ After the registration, you can also open multiple trading accounts of different
 ![placeholder](/assets/img/xm-account-type.jpg "Large example image")
 
 
+### How to claim XM’s bonuses?
+XM has various bonus programs and trading contests.
+
+To find the latest bonus programs, please visit XM Official Website.
+
+
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
-
-### How to claim XM’s bonuses?
-XM runs various bonus promotions and trading contests.
-
-Such campaigns may be limited to traders of certain regions. To find the latest bonus promotions available in your country, please visit XM Official Website.
-The available bonus promotions of XM includes:
+The available bonus programs of XM are:
 
 #### $30 No Deposit Bonus
-Which you can get for free and trade without making a deposit. It is an ultimate risk-free bonus promotion for new traders.
-50% and 20% Deposit Bonus
-Which you can get on your deposits amount. The bonus amount is up to $5000 and will boost your trading with extra margin.
-Loyalty Program
-XM’s Loyalty Program gives traders extra “trading bonus”. The participants earn XMP (XM Point) every time they trade and they can exchange the XMP for certain amount of “trading bonus”.
-XM also runs other types of promotions occasionally.
 
-For the latest available bonus promotions and contests, please visit XM Official Website.
+You can get $30 for free and trade without making a deposit. It is a risk-free bonus program for new traders.
 
-Visit XM Official Website
 
-#### How to claim $30 No Deposit Bonus from XM?
+##### How to claim $30 No Deposit Bonus from XM?
 Here is how to get $30 no deposit bonus (welcome bonus) from XM.
 
 Open a live/real trading account with XM
@@ -87,11 +81,14 @@ Claim the bonus in the members area
 After the account verification is completed, you can claim the $30 No Deposit Bonus by clicking on a button. When you claim the bonus, you must complete the voice verification process by following the on-screen instructions.
 Start trading
 Download XM MT4 or MT5 (depending on the account type) and login. You should see $30 bonus already in your account ready for trading.
-For more information about XM’s 30 USD No Deposit Bonus, please visit the page below.
 
-Details of $30 No Deposit Bonus
 
-#### How to claim Deposit Bonuses of XM?
+#### 50% & 20% Deposit Bonus
+
+You can get 50% and 20% deposit bonus on your deposits amount. The bonus amount is up to $5000 and will boost your trading with extra margin which is so helpful.
+
+
+##### How to claim Deposit Bonuses of XM?
 Here is how to get deposit bonus (trading bonus) from XM.
 
 Open a real/live trading account with XM
@@ -102,18 +99,16 @@ Get the trading bonus
 The bonus will be applied to your deposit amount. 50% bonus to the first $500 and 20% bonus up to $4500. The total bonus amount you can get through XM’s deposit bonus promotion is $5000.
 XM’s 50% and 20% deposit bonus involve some rules and conditions you must know.
 
-For more information about the promotion, please visit the page below.
-
-Details of XM’s 50% and 20% Deposit Bonus
 
 
+#### Loyalty Program
 
-
+XM’s Loyalty Program gives you extra trading bonus. You earn XMP (XM Point) every time you trade and you can exchange the XMP for certain amount of trading bonus.
 
 
 
 
-#### How to participate in XM Loyalty Program?
+##### How to participate in XM Loyalty Program?
 XM’s loyalty program is a promotion which gives you trading bonus for the exchange of XMP (XM Points).
 
 To participate in XM’s loyalty program, you must agree to terms and conditions and confirm your participation in XM’s members area.
@@ -138,6 +133,13 @@ After logging into your members area, you will find the list of available fund d
 In there, you may choose the method, amount and proceed by following the on-screen instructions.
 
 Note that the available funding methods may be different depending on the country you reside in.
+
+
+For the latest available bonus programs and contests, please visit XM Official Website.
+
+Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
+
+
 
 
 ### How to change base currency of XM trading account?
