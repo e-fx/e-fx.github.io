@@ -20,7 +20,7 @@ paginate: true
 ---
 XM can be safely recommended to those who are interested in professional trading with high order processing speed and you can start trading within 30 minutes in the fastest case. 
 
-> All the certificates can be sent online and you won't be bothered by postal mail or fax.
+> All the certificates can be sent online and you won't be bothered by postal mail or FAX.
 
 Please make sure that you are filling in the correct personal information.
 After registering your personal information, you will receive the account information of Members Area. Then you are asked to upload **your certificates such as personal identification or certificate of residence** from your exclusive bar area. Once your real account validated, you will be enable to enjoy all the services form XM.
@@ -55,60 +55,67 @@ After the registration, you can also open multiple trading accounts of different
 ![placeholder](/assets/img/xm-account-type.jpg "Large example image")
 
 
+Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
+
+
 ### How to claim XM’s bonuses?
-XM has various bonus programs and trading contests.
 
-To find the latest bonus programs, please visit XM Official Website.
+XM has several bonus programs and trading contests.
 
+The available bonus programs of XM includes:
+
+### $30 No Deposit Bonus
+
+You can get for free and trade without making a deposit. It is a risk-free bonus program for new traders.
+
+
+### 50% and 20% Deposit Bonus
+
+You can get on your deposits amount. The bonus amount is up to $5000 and will help your trading with extra margin.
+
+
+### Loyalty Program
+
+XM’s Loyalty Program gives you extra trading bonus. You earn XMP (XM Point) every time youtrade and you can exchange the XMP for trading bonus.
+XM also runs other types of promotions occasionally.
+
+For the latest available bonus programs and contests, please visit XM Official Website.
 
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
-The available bonus programs of XM are:
 
-#### $30 No Deposit Bonus
+### How you get $30 No Deposit Bonus
 
-You can get $30 for free and trade without making a deposit. It is a risk-free bonus program for new traders.
+Here is how to get $30 no deposit bonus (welcome bonus).
 
+1. Open a real trading account with XM
+2. The program is available for only once for a new trader of XM.
+3. Complete account verifiation
+4. The requirement to get XM’s $30 No deposit bonus is account verification. 
+5. Login to XM’s members area and provide the identification documents to validate you account.
+6. Claim the bonus in the members area
+7. After the account verification is completed, you can claim the $30 No Deposit Bonus by clicking on the button. 
+8. When you claim the bonus, you must complete the voice verification process by following the on-screen instructions.
+6. Start trading
+7. Download XM MT4 or MT5 and login. 
 
-##### How to claim $30 No Deposit Bonus from XM?
-Here is how to get $30 no deposit bonus (welcome bonus) from XM.
+You should see $30 bonus already in your account ready for trading.
 
-Open a live/real trading account with XM
-The promotion is available only for one time for a new trader of XM.
-Complete account verifiation
-The requirement to get XM’s $30 No deposit bonus is account verification. Login to XM’s members area and provide the relevant identification documents to validate you account information.
-Claim the bonus in the members area
-After the account verification is completed, you can claim the $30 No Deposit Bonus by clicking on a button. When you claim the bonus, you must complete the voice verification process by following the on-screen instructions.
-Start trading
-Download XM MT4 or MT5 (depending on the account type) and login. You should see $30 bonus already in your account ready for trading.
+### How you get 50% and 20% Deposit Bonus
 
+Here is how to get deposit bonus (trading bonus).
 
-#### 50% & 20% Deposit Bonus
+1. Open a real trading account with XM
+2. Make a deposit
+3. Get the trading bonus
 
-You can get 50% and 20% deposit bonus on your deposits amount. The bonus amount is up to $5000 and will boost your trading with extra margin which is so helpful.
+The bonus will be applied to your deposit amount. 50% bonus to the first $500 and 20% bonus up to $4500. The total bonus amount you can get through XM’s deposit bonus is $5000.
 
-
-##### How to claim Deposit Bonuses of XM?
-Here is how to get deposit bonus (trading bonus) from XM.
-
-Open a real/live trading account with XM
-Note that you cannot receive XM’s trading bonus on XM Zero account type. You may open Micro or Standard account to get the bonus.
-Make a deposit
 XM’s 50% and 20% Deposit Bonus can be applied from $5 of minimum deposit amount. Login to XM’s members are and choose the preferable funding method.
-Get the trading bonus
-The bonus will be applied to your deposit amount. 50% bonus to the first $500 and 20% bonus up to $4500. The total bonus amount you can get through XM’s deposit bonus promotion is $5000.
-XM’s 50% and 20% deposit bonus involve some rules and conditions you must know.
 
+Note that you cannot receive XM’s trading bonus on XM Zero account type. You may open Micro or Standard account to get the bonus.
 
-
-#### Loyalty Program
-
-XM’s Loyalty Program gives you extra trading bonus. You earn XMP (XM Point) every time you trade and you can exchange the XMP for certain amount of trading bonus.
-
-
-
-
-##### How to participate in XM Loyalty Program?
+### How to participate in XM Loyalty Program?
 XM’s loyalty program is a promotion which gives you trading bonus for the exchange of XMP (XM Points).
 
 To participate in XM’s loyalty program, you must agree to terms and conditions and confirm your participation in XM’s members area.
@@ -117,11 +124,8 @@ After participating in XM’s loyalty program, you will start earning XMP every 
 
 The XMP will accumulated in your member’s area and eventually you can exchange them for trading bonus.
 
-For the rate of XMP you can earn per trade, and the amount of trading bonus you can earn through the loyalty program, please visit the page below.
 
-Details of XM’s Loyalty Program
-
-How to deposit fund (money) into XM trading account?
+### How to deposit fund (money) into XM trading account?
 XM provides its traders with various fund deposit methods.
 
 The available methods include bank wire transfer, online wallets and credit/debit cards.
@@ -135,13 +139,6 @@ In there, you may choose the method, amount and proceed by following the on-scre
 Note that the available funding methods may be different depending on the country you reside in.
 
 
-For the latest available bonus programs and contests, please visit XM Official Website.
-
-Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
-
-
-
-
 ### How to change base currency of XM trading account?
 Unfortunately, you cannot change the base currencies of XM trading accounts.
 
@@ -151,7 +148,8 @@ To use trading accounts with different base currencies, please open additional t
 
 You can open multiple trading accounts with XM, in different base currencies to manage your funds more effectively.
 
-Visit XM Official Website
+Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
+
 
 ### How to withdraw money from XM trading account?
 “How does fund withdrawals work with XM” is a question many traders ask.
@@ -194,76 +192,13 @@ You can withdraw the amount equals to “equity – unrealized losses”.
 You can only withdraw funds when you have closed all positions in the account. If your open positions have losses, then you must cose them and realize the losses before requesting for fund withdrawals.
 For more information about fund withdrawals, please contact XM’s multilingual support team.
 
+
 Contact XM Support Team
+ [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=18).
 
-3. How to deactivate XM trading account?
-If you no longer trade with XM, then you are recommended to withdraw all your funds first.
-
-Then you may leave the accounts untouched which will be eventually archived as “dormant account” and deactivated.
-
-Or you can also contact XM support team to delete your XM trading account.
-
-Visit XM Official Website
-
-
-
-
-
-
-### Money Laundering Prevention
-
-Preventing money laundering is a major responsibility and aim of regulatory authorities worldwide.
-
-Money laundering allows movement of funds from criminal activities and makes funds available for terrorist activities.
-
-At XM, they are committed to preventing Money Laundering and Terrorist Financing through:
-
-Client identification (KYC procedures).
-Identification, monitoring and reporting of suspicious transactions.
-Maintenance of transaction records for a minimum of 5 years following termination of the said agreement.
-Employee Training in regard to recognising suspicious transactions.
-XM reserves the right to collect and validate proof of identification from clients prior to account opening and any payments of proceeds.
-
-Clients should know that all information provided to XM is made available to regulatory authorities in both the country of origin of the funds, and the destination country of the funds.
-
-XM reserves the right to refuse to process a transfer is connected in any way to money laundering or to any other criminal activities.
-XM is obliged to report all suspicious transactions and is prohibited from informing the client that they have been reported for suspicious account activity.
 
 
 ## Tables
 
 Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
