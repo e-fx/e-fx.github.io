@@ -1,5 +1,5 @@
 ---
-date: 2022-12-03T23:48:05.000Z
+date: 2022-12-02T23:48:05.000Z
 layout: post
 title: How to open a XM trading account and get $30 Bonus?
 subtitle: 'Just about 2 minutes will be required until you complete XM account application.'
