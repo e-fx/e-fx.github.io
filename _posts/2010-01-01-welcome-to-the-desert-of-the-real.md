@@ -198,7 +198,59 @@ Contact XM Support Team
 
 
 
-## Tables
+## Details
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<table>
+    <tr>
+      <td>Minimum deposit</td>
+      <td>$5</td>
+    </tr>
+    <tr>
+      <td>Currency pairs</td>
+      <td>55+</td>
+    </tr>
+    <tr>
+      <td>Spread EURUSD</td>
+      <td>from 0 Pip</td>
+    </tr>
+    <tr>
+      <td>Min. volume size</td>
+      <td>1000 units (micro lot) - 0.01</td>
+    </tr>
+    <tr>
+      <td>Headquarters</td>
+      <td>Australia, Cyprus (European Union) ,Belize</td>
+    </tr>
+    <tr>
+      <td>Mobile trading</td>
+      <td>Android & iOS</td>
+    </tr>
+    <tr>
+      <td>Account types</td>
+      <td>Standard, Micro, Zero, XM Ultra Low Account</td>
+    </tr>
+    <tr>
+      <td>Scalping</td>
+      <td>allowed</td>
+    </tr>
+    <tr>
+      <td>Trading Contests</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Average spreads</td>
+      <td>EUR/USD 0,1 Pips USD/JPY 0,1 Pips EUR/JPY 0,6 Pips GPB/USD 0,4 Pips</td>
+    </tr>
+    <tr>
+      <td>Languages supported</td>
+      <td>Arabic, Bengali, Chinese Simplified, Chinese Traditional, Czech, Dutch, English, French, German, Greek, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Persian / Farsi, Polish, Portuguese, Russian, Spanish, Swedish, Tagalog, Thai, Turkish, Vietnamese</td>
+    </tr>
+    <tr>
+      <td>Regulation & Licenses</td>
+      <td>ASIC Australia, CySEC (Cyprus), FSC (Belize)</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
