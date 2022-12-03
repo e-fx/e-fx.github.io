@@ -249,7 +249,6 @@ Contact XM Support Team
       <td>Regulation & Licenses</td>
       <td>ASIC Australia, CySEC (Cyprus), FSC (Belize)</td>
     </tr>
-  </tbody>
 </table>
 
 
