@@ -1,5 +1,5 @@
 ---
-date: 2022-12-02T23:48:05.000Z
+date: 2022-12-03T23:48:05.000Z
 layout: post
 title: How to open a XM trading account and get $30 Bonus?
 subtitle: 'Just about 2 minutes will be required until you complete XM account application.'
@@ -115,81 +115,70 @@ XM’s 50% and 20% Deposit Bonus can be applied from $5 of minimum deposit amoun
 
 Note that you cannot receive XM’s trading bonus on XM Zero account type. You may open Micro or Standard account to get the bonus.
 
+
 ### How to participate in XM Loyalty Program?
+
 XM’s loyalty program is a promotion which gives you trading bonus for the exchange of XMP (XM Points).
 
-To participate in XM’s loyalty program, you must agree to terms and conditions and confirm your participation in XM’s members area.
+You must agree to terms and conditions and confirm your participation in XM’s members area to participate in XM’s loyalty program, 
 
-After participating in XM’s loyalty program, you will start earning XMP every time you trade.
+After participating, you will start earning XMP every time you trade.
 
-The XMP will accumulated in your member’s area and eventually you can exchange them for trading bonus.
+And you can exchange XMP for trading bonus.
 
 
-### How to deposit fund (money) into XM trading account?
-XM provides its traders with various fund deposit methods.
+### How you can deposit fund into your trading account
 
-The available methods include bank wire transfer, online wallets and credit/debit cards.
+XM provides you with several fund deposit methods such as bank wire transfer, online wallets and credit/debit cards.
 
-To make a deposit to XM’s trading account, please first login to XM’s members are from XM Official Website.
+At first you login to XM’s members are from XM Official Website.
 
-After logging into your members area, you will find the list of available fund deposit methods.
-
-In there, you may choose the method, amount and proceed by following the on-screen instructions.
+After logging into your members area, you can find the list of available fund deposit methods.
 
 Note that the available funding methods may be different depending on the country you reside in.
 
 
-### How to change base currency of XM trading account?
-Unfortunately, you cannot change the base currencies of XM trading accounts.
+### How you change the base currency of XM trading account
 
-XM provides its traders with various base currencies options such as USD, GBP, CHF, JPY, AUD, RUB, PLN, HUF, SGD and ZAR.
+You cannot change the base currencies of XM trading accounts.
 
-To use trading accounts with different base currencies, please open additional trading accounts from XM Official Website.
+For using trading accounts with different base currencies, you need to open additional trading accounts from XM Official Website.
 
-You can open multiple trading accounts with XM, in different base currencies to manage your funds more effectively.
+You can open multiple trading accounts (up to 8) with XM, in different base currencies to manage your funds more effectively.
 
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 
-### How to withdraw money from XM trading account?
-“How does fund withdrawals work with XM” is a question many traders ask.
+### How to withdraw money from XM trading account
 
-To find out more, you may login to XM’s members area and proceed to the “fund withdrawal” section.
+First of all, you login to XM’s members area and proceed to the fund withdrawal section.
 
-Normally, as a rule for fund withdrawals, the fund will be sent back to the original source up to the amount sent from the source.
+As a rule for fund withdrawals, the fund will be sent transfer to the original source up to the amount sent from the source.
 
-For any exceeded amount, XM will send the funds to your bank account via wire transfer.
+For any exceeded amount, XM will transfer the funds to your account.
 
-The available fund withdrawal methods are majorly affected by the deposit method you used and the country you reside in.
 
-For more information, please visit XM Official Website.
 
-List of XM’s all Deposit and Withdrawal Methods
+### How long does withdrawal take
 
-### How long does XM’s fund withdrawal take?
-The withdrawal method you use will decide how long it takes to withdraw from XM’s trading accounts.
+XM process all fund withdrawal requests within 24 hours in business days.
 
-XM will process all fund withdrawal requests within 24 hours in business days.
+Then your funds will be transferred into your account, which would be your bank account, via credit/debit cards or account of your online wallets.
 
-Then the funds will be transferred into your account, which would be your bank account, account of online wallets or via credit/debit cards.
+If your fund remains and not trasfer to your account over few days later, then you may contact XM support team to find out how the withdrawal is being processed.
 
-If your fund remains in your trading account a few days (business days) later you requested for a withdrawal, then you may contact XM support team to find out how the withdrawal is being processed.
+Contact XM Support Team
+ [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=18).
 
-Visit XM Official Website
 
-### How much can you withdraw from XM trading account?
-From XM’s MT4 and MT5 trading accounts, the available withdrawal amount is unlimited.
+### How much you can withdraw from XM trading account
 
-You can withdraw your funds and profits at anytime with no limitations.
+From MT4 and MT5 of XM trading accounts, the available withdrawal amount is unlimited.
 
-With XM, you can make profit as much as you can and withdraw them all.
+You can withdraw your funds and profits at anytime so quick.
 
-Note that in some cases, the fund withdrawal is limited to certain amount.
+Note that you can only withdraw funds when you have closed all positions in the account. If your open positions have losses, then you must close them before requesting for fund withdrawals.
 
-In case you have received bonuses from XM.
-You cannot withdraw bonuses from XM’s trading accounts. When participating in promotions of XM and receiving bonuses, make sure that you have read the terms and conditions.
-You can withdraw the amount equals to “equity – unrealized losses”.
-You can only withdraw funds when you have closed all positions in the account. If your open positions have losses, then you must cose them and realize the losses before requesting for fund withdrawals.
 For more information about fund withdrawals, please contact XM’s multilingual support team.
 
 
@@ -220,6 +209,10 @@ Contact XM Support Team
     <tr>
       <td>Headquarters</td>
       <td>Australia, Cyprus (European Union) ,Belize</td>
+    </tr>
+    <tr>
+      <td>Founded</td>
+      <td>2009</td>
     </tr>
     <tr>
       <td>Mobile trading</td>
