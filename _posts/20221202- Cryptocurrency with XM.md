@@ -1,5 +1,5 @@
 ---
-date: 2022-12-04T23:48:05.000Z
+date: 2022-12-02T23:48:05.000Z
 layout: post
 title: Cryptocurrency with XM
 subtitle: 'Trading Cryptocurrency relaunched on XM with significantly improved trading conditions compared to before.'
@@ -9,7 +9,7 @@ image: >-
   /assets/img/crypto-currency.jpg
 optimized_image: >-
   /assets/img/crypto-currency-s.jpg
-category: blog
+category: cyrpto
 tags:
   - xm
   - crypto
