@@ -5,7 +5,7 @@ name: e-fx
 display_name: e-fx
 position: The One
 bio: indroducing fx-brokers.
-twitter_username: twitter_username
+efx_trade: efx_trade
 instagram_username: instagram_username
 ---
 

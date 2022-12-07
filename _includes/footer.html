@@ -1,7 +1,7 @@
 <footer>
     <p>
-      {% if site.twitter_username %}
-        <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+      {% if site.efx_trade %}
+        <a href="https://twitter.com/{{ site.efx_trade }}" title="Twitter">
           <svg><use xlink:href="#icon-twitter"></use></svg>
         </a>
       {% endif %}
@@ -15,8 +15,8 @@
 </footer>
 
 {% assign social_urls = '' %}
-{% if site.twitter_username %}
-    {% assign social_urls = social_urls | append: '"https://twitter.com/' | append: site.twitter_username | append: '",' %}
+{% if site.efx_trade %}
+    {% assign social_urls = social_urls | append: '"https://twitter.com/' | append: site.efx_trade | append: '",' %}
 {% endif %}
 
 <script type="application/ld+json">

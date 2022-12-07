@@ -170,7 +170,7 @@ collections:
         widget: "string"
         required: false
       - label: "Twitter Username"
-        name: "twitter_username"
+        name: "efx_trade"
         widget: "string"
         required: false
       - label: "Instagram Username"
@@ -256,7 +256,7 @@ collections:
             widget: "string"
             required: false
           - label: "Twitter Username"
-            name: "twitter_username"
+            name: "efx_trade"
             widget: "string"
             required: false
           - label: "Instagram Username"

@@ -175,7 +175,7 @@ Set the Facebook username for the website.
 facebook_username: facebook_username
 ```
 
-#### `twitter_username`
+#### `efx_trade`
 
 Type: *string*
 
@@ -183,7 +183,7 @@ Set the Twitter username for the website.
 
 ```yaml
 # social.yml
-twitter_username: twitter_username
+efx_trade: efx_trade
 ```
 
 #### `instagram_username`
