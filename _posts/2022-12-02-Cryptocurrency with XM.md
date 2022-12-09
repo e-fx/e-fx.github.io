@@ -24,46 +24,16 @@ paginate: true
 
 Trading Cryptocurrency relaunched on XM with significantly improved trading conditions compared to before.
 
-### XM's New Trading Conditions
-
-
 The new XM Crypto trading has a max leverage x250, and you can easily start trading crypto currencies even with a small amount of budget.
 
 You can check the crypto currency CFD on the XM official website below.
 
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
-The before & after, new comparison table for XM crypto currency is as follows:
-
-
-![placeholder](/assets/img/xm-procedure.jpg "Large example image")
-
-Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
-
-
-
-Contact XM Support Team
- [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=18).
-
-
-As you can see from the comparison chart above, we have definitely evolved in all trading conditions.
-
-It has not been announced why XM started trading crypto currencies that had been suspended, but it is a response to traders who want to trade crypto currencies using XM and new investors due to new trading conditions. You can see the aim to acquire .
-
-When XM previously stopped handling crypto currencies, it was said to be to protect customers from too much volatility of crypto currencies.
-
-It can be said that the crypto itself has become more stable than before that XM will start handling crypto again this time.
-
-In any case, XM's crypto currency trading has been suspended since February 2019, but since May 24 2022, XM has renewed the trading conditions and has relaunched handling crypto currencies.
-
-Compared to the previous XM crypto currency trading conditions, it is far more advantageous than other overseas Forex brokers and crypto currency exchanges.
-
-I think that many users will enter crypto currency trading with XM in the future, so let's learn more about the new XM's crypto currencies.
-
-
 
 First of all, even if you are already trading crypto currencies at other brokers, including crypto currency exchanges, you will start using XM if you check the new conditions of XM.
 
+## Pros and Cons
 
 
 The pros of trading crypto currencies with XM are:
@@ -107,7 +77,22 @@ XM's crypto currency CFDs have been leveraged from 5x before the resumption to 2
       <td>About 20,000 yen</td>
     </tr>
   </tbody>
-</table>		
+</table>
+
+As you can see from the comparison chart above, we have definitely evolved in all trading conditions.
+
+It has not been announced why XM started trading crypto currencies that had been suspended, but it is a response to traders who want to trade crypto currencies using XM and new investors due to new trading conditions. You can see the aim to acquire .
+
+When XM previously stopped handling crypto currencies, it was said to be to protect customers from too much volatility of crypto currencies.
+
+It can be said that the crypto itself has become more stable than before that XM will start handling crypto again this time.
+
+In any case, XM's crypto currency trading has been suspended since February 2019, but since May 24 2022, XM has renewed the trading conditions and has relaunched handling crypto currencies.
+
+Compared to the previous XM crypto currency trading conditions, it is far more advantageous than other overseas Forex brokers and crypto currency exchanges.
+
+I think that many users will enter crypto currency trading with XM in the future, so let's learn more about the new XM's crypto currencies.
+
 		
 Even while XM was suspending crypto currency, there were various changes in the crypto currency market, but now in 2022, in Japan, crypto currency trading has an upper limit of leverage, up to 2 times. It is
 
