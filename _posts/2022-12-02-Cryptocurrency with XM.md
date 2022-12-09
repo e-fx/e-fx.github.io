@@ -53,7 +53,7 @@ The pros of trading crypto currencies with XM are:
 
 Leverage up to x250
 
-![placeholder](/assets/img/crypto/.jpg "Large example image")
+![placeholder](/assets/img/crypto/pros1.jpg "Large example image")
 
 XM's crypto currency CFDs have been leveraged from 5x before the resumption to 250x. With the increased maximum leverage, it is now possible to trade major crypto currencies such as Bitcoin and Ethereum from small amounts.
 
