@@ -24,50 +24,16 @@ paginate: true
 
 Trading Cryptocurrency relaunched on XM with significantly improved trading conditions compared to before.
 
-### XM'S NEW TRADING CONDITIONS
+### XM's New Trading Conditions
 
 
-The new XM Crypto trading has a maximum leverage x250, and you can easily start trading crypto currencies even with a small amount of budget.
+The new XM Crypto trading has a max leverage x250, and you can easily start trading crypto currencies even with a small amount of budget.
 
 You can check the crypto currency CFD on the XM official website below.
 
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 The before & after, new comparison table for XM crypto currency is as follows:
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
 
 
 ![placeholder](/assets/img/xm-procedure.jpg "Large example image")
@@ -117,13 +83,32 @@ The pros of trading crypto currencies with XM are:
 
 Leverage up to x250
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/.jpg "Large example image")
 
 XM's crypto currency CFDs have been leveraged from 5x before the resumption to 250x. With the increased maximum leverage, it is now possible to trade major crypto currencies such as Bitcoin and Ethereum from small amounts.
 
-DOMESTIC crypto currency TRADER	XMCRYPTO CFDS
-leverage	Up to 2x	Up to 250 times
-Margin/1BTC	About 2 million yen	About 20,000 yen
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>DOMESTIC crypto currency TRADER</th>
+      <th>XM CRYPTO CFDS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>leverage</th>
+      <td>Up to 2x</td>
+      <td>Up to 250 times</td>
+    </tr>
+    <tr>
+      <th>Margin/1BTC</th>
+      <td>About 2 million yen</td>
+      <td>About 20,000 yen</td>
+    </tr>
+  </tbody>
+</table>		
+		
 Even while XM was suspending crypto currency, there were various changes in the crypto currency market, but now in 2022, in Japan, crypto currency trading has an upper limit of leverage, up to 2 times. It is
 
 This is a simple calculation, and it requires a margin of approximately 2 million yen per 1 BTC.
@@ -134,7 +119,7 @@ With the new XM crypto currency trading conditions, the maximum leverage is 250 
 
 swap free no fees
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/.jpg "Large example image")
 
 crypto currency CFDs at XM are not only highly leveraged, but also “swap-free”.
 
@@ -148,7 +133,7 @@ Since many crypto currencies tend to move upward in price, swap-free trading and
 
 XM pointsAvailable
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/.jpg "Large example image")
 
 With XM, you can trade not only crypto currencies, but also crypto currencies using points earned from trading currency pairs and other CFD stocks.
 
@@ -164,7 +149,7 @@ CLICK HERE FOR ARTICLES ABOUT XM POINTS
 
 Tradeable on MT4/MT5
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/.jpg "Large example image")
 
 All stocks handled by XM, including crypto currencies, can be traded using the trading platform MT4/MT5.
 
@@ -184,7 +169,7 @@ CLICK HERE FOR ARTICLES ON MT4 & MT5
 
 because it is a zero cutworry-free transaction
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/.jpg "Large example image")
 
 In the crypto currency market, where prices fluctuate wildly, there are cases in which a large loss can result in a negative account balance and a large amount of debt.
 
@@ -207,38 +192,129 @@ We plan to add features of crypto currencies handled by XM from time to time.
 
 The crypto currencies that can be traded on XM are as follows.
 
-Bitcoin (BTC/USD)
-Ethereum (ETH/USD)
-Ripple (XRP/USD)
-Litecoin (LTC/USD)
-Bitcoin Cash (BCH/USD)
-Basic Attention Token (BAT/USD)
-OMG (OMG/USD)
-Stellar Lumens (XLM/USD)
-AAVE (AAVE/USD)
-Ada (ADA/USD)
-Algorand (ALGO/USD)
-Avalanche (AVAX/USD)
-Axie Infinity (AXS/USD)
-Compound (COMP/USD)
-Enjin Coin (ENJ/USD)
-Fetch Dot AI (FET/USD)
-Graph (GRT/USD)
-Chainlink (LINK/USD)
-Polygon (MATIC/USD)
-Scale (SKL/USD)
-Synthetics (SNX/USD)
-Solana (SOL/USD)
-Storage (STORJ/USD)
-Sushi Swap (SUSHI/USD)
-Universal Market Access (UMA/USD)
-Uniswap (UNI/USD)
-Zero X (ZRX/USD)
-
+<table>
+  <thead>
+    <tr>
+      <th>Type of Crypto</th>
+      <th>Pair</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bitcoin</td>
+      <td>(BTC/USD)</td>
+    </tr>
+    <tr>
+      <td>Ethereum</td>
+      <td>(ETH/USD)</td>
+    </tr>
+    <tr>
+      <td>Ripple</td>
+      <td>(XRP/USD)</td>
+    </tr>
+    <tr>
+      <td>Litecoin</td>
+      <td>(LTC/USD)</td>
+    </tr>
+    <tr>
+      <td>Bitcoin Cash</td>
+      <td>(BCH/USD)</td>
+    </tr>
+    <tr>
+      <td>Basic Attention Token</td>
+      <td>(BAT/USD)</td>
+    </tr>
+    <tr>
+      <td>OMG</td>
+      <td>(OMG/USD)</td>
+    </tr>
+    <tr>
+      <td>Stellar Lumens</td>
+      <td>(XLM/USD)</td>
+    </tr>
+    <tr>
+      <td>AAVE</td>
+      <td>(AAVE/USD)</td>
+    </tr>
+    <tr>
+      <td>Ada</td>
+      <td>(ADA/USD)</td>
+    </tr>
+    <tr>
+      <td>Algorand</td>
+      <td>(ALGO/USD)</td>
+    </tr>
+    <tr>
+      <td>Avalanche</td>
+      <td>(AVAX/USD)</td>
+    </tr>
+    <tr>
+      <td>Axie Infinity</td>
+      <td>(COMP/USD)</td>
+    </tr>
+    <tr>
+      <td>Compound</td>
+      <td>(LTC/USD)</td>
+    </tr>
+    <tr>
+      <td>Enjin Coin</td>
+      <td>(ENJ/USD)</td>
+    </tr>
+    <tr>
+      <td>Fetch Dot AI</td>
+      <td>(FET/USD)</td>
+    </tr>
+    <tr>
+      <td>Graph</td>
+      <td>(GRT/USD)</td>
+    </tr>
+    <tr>
+      <td>Chainlink</td>
+      <td>(LINK/USD)</td>
+    </tr>
+    <tr>
+      <td>Polygon</td>
+      <td>(MATIC/USD)</td>
+    </tr>
+    <tr>
+      <td>Scale</td>
+      <td>(SKL/USD)</td>
+    </tr>
+    <tr>
+      <td>Synthetics</td>
+      <td>(SNX/USD)</td>
+    </tr>
+    <tr>
+      <td>Solana</td>
+      <td>(SOL/USD)</td>
+    </tr>
+    <tr>
+      <td>Storage</td>
+      <td>(STORJ/USD)</td>
+    </tr>
+    <tr>
+      <td>Sushi Swap</td>
+      <td>(SUSHI/USD)</td>
+    </tr>
+    <tr>
+      <td>Universal Market Access</td>
+      <td>(UMA/USD)</td>
+    </tr>
+    <tr>
+      <td>Uniswap</td>
+      <td>(UNI/USD)</td>
+    </tr>
+    <tr>
+      <td>Zero X</td>
+      <td>(ZRX/USD)</td>
+    </tr>
+  </tbody>
+</table> 
+ 
 
 ### Bitcoin (BTC/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/btc.jpg "Large example image")
 
 BTC, the most famous crypto currency
 
@@ -255,41 +331,110 @@ Since Bitcoin was created first among crypto currencies, it can be said that beg
 In addition, since Bitcoin is used as an actual payment currency, it is said that there is a good possibility that it will spread in daily life in the future. It seems that the number of users will be the largest in crypto currency trading at XM.
 
 Currency unit	BTC
-Issue upper limit	21 million sheets
-feature	Specializing in international payments
-Price (as of September 2022)	¥2,689,078.91
-Market capitalization ranking (as of September 2022)	1st place (¥51,391,886,837,426)
-Issue start date	January 3, 2009
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>21 million sheets</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Specializing in international payments</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥2,689,078.91</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>1st place (¥51,391,886,837,426)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>January 3, 2009</td>
+    </tr>
+</table>
+	
 The trading conditions for Bitcoin (BTC/USD) on XM are as follows.
 
-Margin requirement rate	0.4%
-symbol	BTCUSD
-content	Bitcoin vs US Dollar
-Minimum price change	0.01000
-minimum price movement	USD 0.01
-Value per lot	1 Bitcoin
-lowest spread	twenty three
-Minimum/maximum trade size	0.01/20
-Limit and stop levels*	0
-Maximum number of total traded lots	40
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>0.4%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>BTCUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Bitcoin vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.01000</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.01</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1 Bitcoin</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>twenty three</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/20</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>40</td>
+    </tr>
+</table>
+	
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-7	0.4	1:250
-7-14	2	1:50
-14+	100	1:1
-You can check BTC/USD trading on the XM official website below.
-
-TRADE BTC/USD (XM OFFICIAL WEBSITE)
-For more information on Bitcoin (BTC) trading, please see the following page.
-
-CLICK HERE FOR ARTICLES ABOUT BITCOIN (BTC)
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-7</td>
+      <td>0.4</td>
+      <td>1:250</td>
+    </tr>
+    <tr>
+      <td>7-14</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>14+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table> 
+		
+You can check BTC/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 
 
 ### Ethereum (ETH/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/eth.jpg "Large example image")
 
 
 One of the features of Ethereum is the introduction of smart contracts (automatic contract technology).
@@ -301,39 +446,110 @@ Since it is practically impossible to tamper with it, it also has the advantage 
 In addition, Ethereum is constantly improving through regular updates, so it is expected that its value in the crypto currency market will continue to rise. It seems that many traders who also trade crypto currencies on XM will enter.
 
 Currency unit	ETH
-Issue upper limit	Without limit
-feature	Implement smart contract
-Price (as of September 2022)	¥185,063.76
-Market capitalization ranking (as of September 2022)	2nd place (¥22,732,176,406,314)
-Issue start date	July 30, 2015
+
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>Without limit</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Implement smart contract</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥185,063.76</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>2nd place (¥22,732,176,406,314)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>July 30, 2015</td>
+    </tr>
+</table>
+
 The trading conditions for Ethereum (ETH/USD) on XM are as follows.
 
-Margin requirement rate	0.4%
-symbol	ETHUSD
-content	Ethereum vs US Dollar
-Minimum price change	0.01000
-minimum price movement	USD 0.01
-Value per lot	1 Ethereum
-lowest spread	2.55
-Minimum/maximum trade size	0.01/295
-Limit and stop levels*	0
-Maximum number of total traded lots	590
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>0.4%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>ETHUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Ethereum vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.01000</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.01</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1 Ethereum</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>2.55</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/295</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>590</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-95	0.4	1:250
-95-190	2	1:50
-190+	100	1:1
-You can check the ETH/USD transaction on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-95</td>
+      <td>0.4</td>
+      <td>1:250</td>
+    </tr>
+    <tr>
+      <td>95-190</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>190+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table> 
+    
+You can check  ETH/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
-TRADE ETH/USD (XM OFFICIAL WEBSITE)
-For a detailed article on Ethereum (ETH) trading, please visit the page below.
-
-CLICK HERE FOR ARTICLES ON ETHEREUM (ETH)
 
 ### Ripple (XRP/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/xrp.jpg "Large example image")
 
 
 Also known as bridge currency, crypto currency specialized for settlement and remittance
@@ -349,39 +565,108 @@ In addition, Ripple is also called a "bridge currency" because it is characteriz
 Since it is actually adopted by the central bank of the country, represented by the Bank of England, it is promising as a future, so it is expected that the value will rise as the world pays attention in the future. Isn't it one of the crypto currencies that you can choose with confidence even in XM transactions?
 
 Currency unit	XRP
-Issue upper limit	100 billion
-feature	Specializing in remittances between two currencies
-Price (as of September 2022)	¥67.03
-Market capitalization ranking (as of September 2022)	6th place (¥3,350,784,713,352)
-Issue start date	September 2012
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>100 billion</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Specializing in remittances between two currencies</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥67.03</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>6th place (¥3,350,784,713,352)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>September 2012</td>
+    </tr>
+</table>
+
 The trading conditions for Ripple (XRP/USD) at XM are as follows.
 
-Margin requirement rate	0.4%
-symbol	XRP USD
-content	Ripple vs US Dollar
-Minimum price change	0.00001
-minimum price movement	USD 0.01
-Value per lot	1000 Ripple
-lowest spread	0.00135
-Minimum/maximum trade size	0.01/1335
-Limit and stop levels*	0
-Maximum number of total traded lots	2670
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>0.4%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>XRPUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Ripple vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00001</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.01</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 Ripple</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.00135</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/1335</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>2670</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-400	0.4	1:250
-400-800	2	1:50
-800+	100	1:1
-You can check the XRP/USD transaction on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-400</td>
+      <td>0.4</td>
+      <td>1:250</td>
+    </tr>
+    <tr>
+      <td>400-800</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>800+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table> 
 
-TRADE XRP/USD (XM OFFICIAL SITE)
-For a detailed article on Ripple (XRP) trading, please see the following page.
-
-CLICK HERE FOR ARTICLES ON RIPPLE (XRP)
+You can check  XRP/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Litecoin (LTC/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/ltc.jpg "Large example image")
 
 Altcoin released by former Google employee
 
@@ -390,39 +675,108 @@ Compared to Bitcoin, it is attracting attention because it is faster to complete
 It is said that there is no doubt that Litecoin has a future since PayPal, a major American payment service, has introduced Litecoin as a settlement method, so it is expected to be watched as an important issue in crypto currency trading on XM. expected.
 
 Currency unit	LTC
-Issue upper limit	84 million sheets
-feature	Emphasis on practical use such as settlement currency
-Price (as of September 2022)	¥7,638.95
-Market capitalization ranking (as of September 2022)	22nd place (¥545,319,733,007)
-Issue start date	October 2011
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>84 million sheets</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Emphasis on practical use such as settlement currency</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥7,638.95</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>22nd place (¥545,319,733,007)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>October 2011</td>
+    </tr>
+</table>
+
 The trading conditions for Litecoin (LTC/USD) on XM are as follows.
 
-Margin requirement rate	0.4%
-symbol	LTCUSD
-content	Litecoin vs US Dollar
-Minimum price change	0.01000
-minimum price movement	USD 0.1
-Value per lot	10 Litecoin
-lowest spread	0.75
-Minimum/maximum trade size	0.01/810
-Limit and stop levels*	0
-Maximum number of total traded lots	1620
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>0.4%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>LTCUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Litecoin vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.01000</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.1</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>10 Litecoin</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.75</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/810</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>1620</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-210	0.4	1:250
-210-420	2	1:50
-420+	100	1:1
-You can check LTC/USD trading on XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-210</td>
+      <td>0.4</td>
+      <td>1:250</td>
+    </tr>
+    <tr>
+      <td>210-420</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>420+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE LTC/USD (XM OFFICIAL SITE)
-For more information on Litecoin (LTC) trading, please visit the page below.
-
-CLICK HERE FOR ARTICLES ON LITECOIN (LTC)
+You can check LTC/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Bitcoin Cash (BCH/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/bch.jpg "Large example image")
 
 As the name suggests, it is a crypto currency derived from Bitcoin.
 
@@ -432,41 +786,110 @@ Bitcoin Cash has a block size (data capacity) that is 32 times that of Bitcoin, 
 
 As the number of brick-and-mortar stores accepting Bitcoin cash payments is increasing in each country, it is expected that the demand for Bitcoin cash will continue to grow in the future. XM crypto currency trading can be said to be a brand that can be traded with peace of mind, along with Bitcoin.
 
-Currency unit	BCHMore
-Issue upper limit	21 million sheets
-feature	Repeated hard forks to improve functionality
-Price (as of September 2022)	¥16,331.87
-Market capitalization ranking (as of September 2022)	30th place (¥313,578,538,487)
-Issue start date	August 1, 2017
+Currency unit	BCH
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>21 million sheets</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Repeated hard forks to improve functionality</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥16,331.87</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>30th place (¥313,578,538,487)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>August 1, 2017</td>
+    </tr>
+</table>
+
 The trading conditions for Bitcoin Cash (BCH/USD) on XM are as follows.
 
-Margin requirement rate	0.4%
-symbol	BCHUSD
-content	Bitcoin Cash vs US Dollar
-Minimum price change	0.01000
-minimum price movement	USD 0.1
-Value per lot	10 Bitcoin Cash
-lowest spread	1.15
-Minimum/maximum trade size	0.01/355
-Limit and stop levels*	0
-Maximum number of total traded lots	710
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>0.4%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>BCHUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Bitcoin Cash vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.01000</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.1</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>10 Bitcoin Cash</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>1.15</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/355</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>710</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-65	0.4	1:250
-65-130	2	1:50
-130+	100	1:1
-You can check the BCH/USD transaction on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-65</td>
+      <td>0.4</td>
+      <td>1:250</td>
+    </tr>
+    <tr>
+      <td>65-130</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>130+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE BCH/USD (XM OFFICIAL WEBSITE)
-For more information on Bitcoin Cash (BCH) trading, please visit the page below.
-
-CLICK HERE FOR ARTICLES ABOUT BITCOIN CASH (BCH)
+You can check BCH/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 
 ### Basic Attention Token (BAT/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/bat.jpg "Large example image")
 
 Proprietary token developed by web browser Brave
 
@@ -483,38 +906,103 @@ Since it is linked with Youtube, it can also be used for Youtube video content.
 If the number of users of brave increases in the future and the use of the currency itself increases, it is expected to become even more popular. I think there is no loss even if you pay attention to XM's crypto currency trading.
 
 Currency unit	BAT
-Issue upper limit	1.5 billion
-feature	A crypto currency created to solve the problems of users ordering web advertisements
-Price (as of September 2022)	¥43.58
-Market capitalization ranking (as of September 2022)	75th place (¥65,192,385,964)
-Issue start date	May 2017
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>1.5 billion</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>A crypto currency created to solve the problems of users ordering web advertisements</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥43.58</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>75th place (¥65,192,385,964)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>May 2017</td>
+    </tr>
+</table>
+
 The trading conditions for Basic Attention Token (BAT/USD) on XM are as follows.
 
-Margin requirement rate	2%
-symbol	BATUSD
-content	Basic Attention Token vs US Dollar
-Minimum price change	0.00001
-minimum price movement	USD 0.01
-Value per lot	1000 Basic Attention Tokens
-lowest spread	0.015
-Minimum/maximum trade size	0.01/1160
-Limit and stop levels*	0
-Maximum number of total traded lots	2320
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>BATUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Basic Attention Token vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00001</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.01</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 Basic Attention Tokens</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.015</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/1160</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>2320</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-600	2	1:50
-600+	100	1:1
-You can check the BAT/USD transaction on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-600</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>600+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE BAT/USD (XM OFFICIAL WEBSITE)
-For a detailed article on Basic Attention Token (BAT) trading, please visit the page below.
-
-CLICK HERE FOR ARTICLES ON BASIC ATTENTION TOKEN (BAT)
+You can check BAT/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### OMG (OMG/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/omg.jpg "Large example image")
 
 Fast processing and low cost based on Ethereum
 
@@ -524,39 +1012,104 @@ Previously, OMG could only be handled on overseas exchanges such as Binance, but
 
 It depends on future trends, but if the price continues to rise, it may be possible to add it to the list as a target for crypto currency trading on XM.
 
-Currency unit	OMGMore
-Issue upper limit	140,295,398 sheets
-feature	Low cost and strong security measures
-Price (as of September 2022)	¥245.51
-Market capitalization ranking (as of September 2022)	118th place (¥34,423,156,586)
-Issue start date	July 2017
+Currency unit	OMG
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>140,295,398 sheets</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Low cost and strong security measures</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥245.51</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>118th place (¥34,423,156,586)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>July 2017</td>
+    </tr>
+</table>
+
 The trading conditions for OMG (OMG/USD) on XM are as follows.
 
-Margin requirement rate	2%
-symbol	OMGUSD
-content	OMG Network vs US Dollar
-Minimum price change	0.01000
-minimum price movement	USD 10
-Value per lot	1000 OMG Network
-lowest spread	0.06
-Minimum/maximum trade size	0.01/215
-Limit and stop levels*	0
-Maximum number of total traded lots	430
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>OMGUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>OMG Network vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.01000</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 10</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 OMG Network</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.06</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/215</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>430</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-100	2	1:50
-100+	100	1:1
-You can check OMG/USD trading on XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-100</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>100+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE OMG/USD (XM OFFICIAL SITE)
-For more information on OMG trading, please visit the page below.
-
-CLICK HERE FOR ARTICLES ABOUT OMG
+You can check OMG/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Stellar Lumens (XLM/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/xlm.jpg "Large example image")
 
 Centralized crypto currency developed by non-profit organizations
 
@@ -567,38 +1120,103 @@ It was developed with the aim of smoothing person-to-person remittances, mainly 
 Not only does it reduce the cost of international remittances, but it also has a reputation for its speed when making payments. It is expected that crypto currency trading at XM will also gain popularity.
 
 Currency unit	XLM
-Issue upper limit	1 trillion
-feature	centralized
-Price (as of September 2022)	¥16.87
-Market capitalization ranking (as of September 2022)	25th place (¥430,999,839,110)
-Issue start date	July 2014
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>1 trillion</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>centralized</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥16.87</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>25th place (¥430,999,839,110)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>July 2014</td>
+    </tr>
+</table>
+
 The trading conditions for Stellar Lumens (XLM/USD) on XM are as follows.
 
-Margin requirement rate	2%
-symbol	XLM USD
-content	Stellar Lumens vs US Dollar
-Minimum price change	0.00001
-minimum price movement	USD 0.01
-Value per lot	1000 Stellar Lumens
-lowest spread	0.0015
-Minimum/maximum trade size	0.01/4090
-Limit and stop levels*	0
-Maximum number of total traded lots	8180
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>XLMUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Stellar Lumens vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00001</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.01</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 Stellar Lumens</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.0015</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/4090</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>8180</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-2100	2	1:50
-2100+	100	1:1
-You can check XLM/USD trading on XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-2100</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>2100+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE XLM/USD (XM OFFICIAL SITE)
-For a detailed article on trading Stellar Lumens (XLM) on XM, please visit the page below.
-
-ARTICLE ABOUT STELLAR LUMENS (XLM) AT XM IS HERE
+You can check XLM/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### AAVE (AAVE/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/aave.jpg "Large example image")
 
 DeFi protocol featuring "lending", "flash loan" and "trust delegation"
 
@@ -609,114 +1227,309 @@ In existing financial systems such as banks, in addition to depositing collatera
 Lending, which is a function of Aave, solves the above problems, and automatically calculates the amount that can be borrowed and the interest rate according to the amount of the pool deposited on the protocol by the smart contract, made it possible to execute
 
 Currency unit	AAVE
-Issue upper limit	16,000,000
-feature	Lending
-Price (as of September 2022)	¥10,623.65
-Market capitalization ranking (as of September 2022)	49th place (¥149,600,654,768)
-Issue start date	September 2018
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>16,000,000</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Lending</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥10,623.65</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>49th place (¥149,600,654,768)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>September 2018</td>
+    </tr>
+</table>
+
 The trading conditions for AAVE (AAVE/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	AAVE USD
-content	Aave vs US Dollar
-Minimum price change	0.01000
-minimum price movement	USD 0.1
-Value per lot	10 Ave
-lowest spread	2
-Minimum/maximum trade size	0.01/495
-Limit and stop levels*	0
-Maximum number of total traded lots	990
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>AAVEUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Aave vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.01000</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.1</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>10 Ave</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/495</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>990</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-300	2	1:50
-300+	100	1:1
-You can check the AAVE/USD transaction on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-300</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>300+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE AAVE/USD (XM OFFICIAL WEBSITE)
-For a detailed article on AAVE trading on XM, please visit the page below.
-
-CLICK HERE FOR AN ARTICLE ABOUT AAVE AT XM
+You can check AAVE/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Ada (ADA/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/ada.jpg "Large example image")
 
 Consensus algorithm "PoS"
 
 Built using a construction method that guarantees the correctness of the program, Cardano was developed with the aim of achieving the scalability, interoperability, and sustainability required for practical applications. "ADA" (Ada) is traded on more than 30 exchanges around the world as a crypto asset, and is listed on BITPOINT, GMO coin, etc. in Japan.
 
 Currency unit	ADA
-Issue upper limit	45 billion
-feature	Consensus algorithm "PoS"
-Price (as of September 2022)	¥64.32
-Market capitalization ranking (as of September 2022)	9th place (¥2,211,036,161,070)
-Issue start date	September 2017
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>45 billion</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Consensus algorithm "PoS"</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥64.32</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>9th place (¥2,211,036,161,070)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>September 2017</td>
+    </tr>
+</table>
+
 The trading conditions for Ada (ADA/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	ADAUSD
-content	Cardano vs US Dollar
-Minimum price change	0.00001
-minimum price movement	USD 0.01
-Value per lot	1000 Cardano
-lowest spread	0.0015
-Minimum/maximum trade size	0.01/965
-Limit and stop levels*	0
-Maximum number of total traded lots	1930
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>ADAUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Cardano vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00001</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.01</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 Cardano</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.0015</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/965</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>1930</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-600	2	1:50
-600+	100	1:1
-You can check the ADA/USD transaction on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-600</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>600+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE ADA/USD (XM OFFICIAL WEBSITE)
-For a detailed article on ADA trading on XM, please visit the page below.
-
-CLICK HERE FOR AN ARTICLE ON ADA AT XM
+You can check ADA/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Algorand (ALGO/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/algo.jpg "Large example image")
 
 Adoption of PPoS (Pure Proof of Stake)
 
 A blockchain founded in 2019 by Professor Silvio Micali of MIT, who systematized and wrote a paper on zero-knowledge proofs. Features include easy NFT creation, low transaction fees, and no forking, and the native token is called ALGO.
 
 Currency unit	ALGO
-Issue upper limit	10 billion
-feature	Easy to create NFTs
-Price (as of September 2022)	¥53.58
-Market capitalization ranking (as of September 2022)	28th place (¥371,127,337,996)
-Issue start date	June 2019
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>10 billion</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Easy to create NFTs</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥53.58</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>28th place (¥371,127,337,996)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>June 2019</td>
+    </tr>
+</table>
+
 The trading conditions of Algo (ALGO/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	ALGO USD
-content	Algorand vs US Dollar
-Minimum price change	0.00001
-minimum price movement	USD 0.01
-Value per lot	1000 Algorand
-lowest spread	0.006
-Minimum/maximum trade size	0.01/1415
-Limit and stop levels*	0
-Maximum number of total traded lots	2830
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>ALGOUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Algorand vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00001</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.01</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 Algorand</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.006</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/1415</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>2830</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-600	2	1:50
-600+	100	1:1
-You can check ALGO/USD trading on XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-600</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>600+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE ALGO/USD (XM OFFICIAL WEBSITE)
-For a detailed article on ALGO trading on XM, please visit the page below.
-
-CLICK HERE FOR AN ARTICLE ABOUT ALGO AT XM
+You can check ALGO/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Avalanche (AVAX/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/avax.jpg "Large example image")
 
 Proprietary consensus algorithm introduced
 
@@ -725,38 +1538,103 @@ AVAX is a public blockchain that aims to be a decentralized financial platform, 
 It introduces a consensus algorithm with its own high transaction processing capability and compatibility with Ethereum.
 
 Currency unit	AVAX
-Issue upper limit	720 million sheets
-feature	Proprietary consensus algorithm
-Price (as of September 2022)	¥2502.40
-Market capitalization ranking (as of September 2022)	16th place (¥735,924,939,708)
-Issue start date	September 2020
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>720 million</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Proprietary consensus algorithm</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥2502.40</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>16th place (¥735,924,939,708)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>September 2020</td>
+    </tr>
+</table>
+
 The trading conditions of Avalanche (AVAX/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	AVAXUSD
-content	Avalanche vs US Dollar
-Minimum price change	0.01000
-minimum price movement	USD 0.1
-Value per lot	10 Avalanche
-lowest spread	0.12
-Minimum/maximum trade size	0.01/1900
-Limit and stop levels*	0
-Maximum number of total traded lots	3800
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>AVAXUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Avalanche vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.01000</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.1</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>10 Avalanche</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.12</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/1900</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>3800</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-600	2	1:50
-600+	100	1:1
-You can check AVAX/USD trading on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-600</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>600+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE AVAX/USD (XM OFFICIAL WEBSITE)
-For a detailed article on Avalanche (AVAX) trading on XM, please visit the page below.
-
-ARTICLE ABOUT AVALANCHE (AVAX) AT XM IS HERE
+You can check AVAX/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Axie Infinity (AXS/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/axs.jpg "Large example image")
 
 NFT game where you can earn money while playing (GameFi)
 
@@ -767,38 +1645,103 @@ Each Axie has a non-fungible token: an NFT with its own appearance and unique "g
 Since January 2019, it is also possible to purchase virtual land in the form of non-fungible tokens.
 
 Currency unit	AXS
-Issue upper limit	270 million sheets
-feature	Especially popular among NFT games
-Price (as of September 2022)	¥1902.58
-Market capitalization ranking (as of September 2022)	47th place (¥152,140,527,285)
-Issue start date	March 2018
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>270 million</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Especially popular among NFT games</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥1902.58</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>47th place (¥152,140,527,285)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>March 2018</td>
+    </tr>
+</table>
+
 The trading conditions for Axie Infinity (AXS/USD) on XM are as follows.
 
-Margin requirement rate	2%
-symbol	AXSUSD
-content	Axie Infinity vs US Dollar
-Minimum price change	0.01000
-minimum price movement	USD 1
-Value per lot	100 Axie Infinity
-lowest spread	0.45
-Minimum/maximum trade size	0.01/270
-Limit and stop levels*	0
-Maximum number of total traded lots	540
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>AXSUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Axie Infinity vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.01000</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 1</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>100 Axie Infinity</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.45</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/270</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>540</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-100	2	1:50
-100+	100	1:1
-You can check AXS/USD trading on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-100</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>100+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE AXS/USD (XM OFFICIAL WEBSITE)
-For a detailed article on Axie Infinity (AXS/USD) trading on XM, please visit the page below.
-
-CLICK HERE FOR AN ARTICLE ON AXIE INFINITY (AXS/USD) AT XM
+You can check AXS/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Compound (COMP/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/comp.jpg "Large example image")
 
 Decentralized Finance (DeFi)
 
@@ -807,76 +1750,206 @@ A platform for decentralized finance (DeFi) and the governance token used therei
 Since it is an ERC-20 token built on the Ethereum blockchain, it can also be used within other DeFi applications that work with it.
 
 Currency unit	COMP
-Issue upper limit	10 million sheets
-feature	Decentralized Finance (DeFi)
-Price (as of September 2022)	¥9,093.98
-Market capitalization ranking (as of September 2022)	76th place (¥64,258,640,866)
-Issue start date	September 2018
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>10 million</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Decentralized Finance (DeFi)</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥9,093.98</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>76th place (¥64,258,640,866)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>September 2018</td>
+    </tr>
+</table>
+
 The trading conditions for compound (COMP/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	COMP USD
-content	Compoud vs US Dollar
-Minimum price change	0.01000
-minimum price movement	USD 0.1
-Value per lot	10 Compouds
-lowest spread	0.55
-Minimum/maximum trade size	0.01/805
-Limit and stop levels*	0
-Maximum number of total traded lots	1610
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>COMPUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Compoud vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.01000</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.1</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>10 Compouds</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.55</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/805</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>1610</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-300	2	1:50
-300+	100	1:1
-You can check COMP/USD trading on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-300</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>300+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE COMP/USD (XM OFFICIAL SITE)
-For a detailed article on compound (COMP/USD) trading on XM, please visit the page below.
-
-CLICK HERE FOR AN ARTICLE ON COMPOUND (COMP/USD) AT XM
+You can check COMP/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Enjin Coin (ENJ/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/enj.jpg "Large example image")
 
 From NFT production to sales
 
 It is a crypto currency used on the NFT platform operated by “Enjin”, which was founded in Singapore in 2009, and is the key currency issued by the “Enjin Platform”.
 
 Currency unit	ENJ
-Issue upper limit	1 billion
-feature	From NFT production to sales
-Price (as of September 2022)	¥69.47
-Market capitalization ranking (as of September 2022)	74th place (¥69,447,267,888)
-Issue start date	June 2018
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>1 billion</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>From NFT production to sales</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥69.47</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>74th place (¥69,447,267,888)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>June 2018</td>
+    </tr>
+</table>
+
 The trading conditions for Enjin Coin (ENJ/USD) on XM are as follows.
 
-Margin requirement rate	2%
-symbol	ENJUSD
-content	Enjin Coin vs US Dollar
-Minimum price change	0.00001
-minimum price movement	USD 0.01
-Value per lot	100 Enjin Coins
-lowest spread	0.0055
-Minimum/maximum trade size	0.01/725
-Limit and stop levels*	0
-Maximum number of total traded lots	1450
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>ENJUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Enjin Coin vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00001</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.01</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>100 Enjin Coins</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.0055</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/725</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>1450</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-300	2	1:50
-300+	100	1:1
-You can check ENJ/USD trading on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-300</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>300+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE ENJ/USD (XM OFFICIAL WEBSITE)
-For a detailed article on Enjin Coin (ENJ/USD) trading on XM, please see the page below.
-
-CLICK HERE FOR AN ARTICLE ON ENJIN COIN (ENJ/USD) AT XM AT XM
+You can check ENJ/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Fetch Dot AI (FET/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/fet.jpg "Large example image")
 
 Autonomous agent "AEA"
 
@@ -884,39 +1957,104 @@ It is a crypto currency born from a project aimed at automation by AI.
 
 Fetch.Ai is distributed or distributed to third parties involved in projects to develop artificial intelligence networks that can collect and provide data and services without manual intervention by autonomous agents (AEA). You can receive it.
 
-Currency unit	FETs
-Issue upper limit	1.1 billion
-feature	Autonomous agent "AEA"
-Price (as of September 2022)	¥12.11
-Market capitalization ranking (as of September 2022)	318th place (¥9,049,266,869)
-Issue start date	February 2019
+Currency unit	FET
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>1.1 billion</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Autonomous agent "AEA"</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥12.11</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>318th place (¥9,049,266,869)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>February 2019</td>
+    </tr>
+</table>
+
 The trading conditions of Fetchdot AI (FET/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	FETUSD
-content	Fetch AI vs US Dollar
-Minimum price change	0.00001
-minimum price movement	USD 0.01
-Value per lot	1000 Fetch AI
-lowest spread	0.0025
-Minimum/maximum trade size	0.01/4920
-Limit and stop levels*	0
-Maximum number of total traded lots	9840
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>FETUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Fetch AI vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00001</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.01</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 Fetch AI</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.0025</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/4920</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>9840</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-1200	2	1:50
-1200+	100	1:1
-You can check the FET/USD trading on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-1200</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>1200+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE FET/USD (XM OFFICIAL WEBSITE)
-For more information on FetchdotAI (FET/USD) trading on XM, please visit the page below.
-
-CLICK HERE FOR AN ARTICLE ON FETCH DOT AI (FET/USD) AT XM AT XM
+You can check FET/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Graph (GRT/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/grt.jpg "Large example image")
 
 The Google of the blockchain world
 
@@ -925,76 +2063,206 @@ The Graph is a project that develops a system that enables searches on the block
 Due to the characteristics of the services it provides, it is called the “Google of the blockchain world” and has high expectations in the world of WEB3.
 
 Currency unit	GRT
-Issue upper limit	10 billion
-feature	The Google of the blockchain world
-Price (as of September 2022)	¥14.76
-Market capitalization ranking (as of September 2022)	59th place (¥101,848,065,568)
-Issue start date	February 2019
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>10 billion</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>The Google of the blockchain world</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥14.76</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>59th place (¥101,848,065,568)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>February 2019</td>
+    </tr>
+</table>
+
 The trading conditions of the graph (GRT/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	GRTUSD
-content	The Graph vs US Dollar
-Minimum price change	0.00001
-minimum price movement	USD 0.01
-Value per lot	1000 The Graph
-lowest spread	0.003
-Minimum/maximum trade size	0.01/3785
-Limit and stop levels*	0
-Maximum number of total traded lots	7570
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>GRTUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>The Graph vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00001</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.01</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 The Graph</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.003</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/3785</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>7570</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-1200	2	1:50
-1200+	100	1:1
-You can check GRT/USD trading on XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-1200</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>1200+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE GRT/USD (XM OFFICIAL SITE)
-For a detailed article on graph (GRT/USD) trading on XM, please visit the page below.
-
-CLICK HERE FOR THE ARTICLE ON THE GRAPH (GRT/USD) AT XM AT XM
+You can check GRT/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Chainlink (LINK/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/link.jpg "Large example image")
 
 Intermediary between blockchain and external services
 
 Chainlink is a crypto currency developed by Smart Contract Co., Ltd., which specializes in blockchain business, in cooperation with IC3, a blockchain research institute.
 
 Currency unit	LINK
-Issue upper limit	Unlimited
-feature	Intermediary between blockchain and external services
-Price (as of September 2022)	¥1,067.95
-Market capitalization ranking (as of September 2022)	23rd place (¥523,798,068,892)
-Issue start date	September 2017
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>Unlimited</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Intermediary between blockchain and external services</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥1,067.95</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>23rd place (¥523,798,068,892)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>September 2017</td>
+    </tr>
+</table>
+
 The trading conditions for Chainlink (LINK/USD) on XM are as follows.
 
-Margin requirement rate	2%
-symbol	LINKUSD
-content	Chainlink vs US Dollar
-Minimum price change	0.01000
-minimum price movement	USD 1
-Value per lot	100 Chainlink
-lowest spread	0.03
-Minimum/maximum trade size	0.01/625
-Limit and stop levels*	0
-Maximum number of total traded lots	1250
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>LINKUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Chainlink vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.01000</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 1</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>100 Chainlink</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.03</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/625</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>1250</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-300	2	1:50
-300+	100	1:1
-You can check the LINK/USD transaction on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-300</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>300+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE LINK/USD (XM OFFICIAL WEBSITE)
-For more information on Chainlink (LINK/USD) trading on XM, please visit the page below.
-
-ARTICLE ON CHAINLINK (LINK/USD) AT XM IS HERE
+You can check LINK/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Polygon (MATIC/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/matic.jpg "Large example image")
 
 Fast communication speeds and low transaction fees
 
@@ -1003,76 +2271,206 @@ Polygon (MATIC) is a Layer 2 solution to solve Ethereum's scalability problem.
 PoS (Proof of Stake) is adopted as a transaction approval method.
 
 Currency unit	MATIC
-Issue upper limit	10 billion
-feature	Fast communication speeds and low transaction fees
-Price (as of September 2022)	¥110.78
-Market capitalization ranking (as of September 2022)	13th place (¥969,310,659,277)
-Issue start date	October 2017
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>10 billion</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Fast communication speeds and low transaction fees</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥110.78</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>13th place (¥969,310,659,277)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>October 2017</td>
+    </tr>
+</table>
+
 Trading conditions for Polygon (MATIC/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	MATICUSD
-content	Polygon vs US Dollar
-Minimum price change	0.00001
-minimum price movement	USD 0.01
-Value per lot	1000 polygons
-lowest spread	0.0025
-Minimum/maximum trade size	0.01/545
-Limit and stop levels*	0
-Maximum number of total traded lots	1090
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>MATICUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Polygon vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00001</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.01</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 polygons</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.0025</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/545</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>1090</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-300	2	1:50
-300+	100	1:1
-You can check the MATIC/USD trading on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-300</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>300+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE MATIC/USD (XM OFFICIAL SITE)
-For a detailed article on Polygon (MATIC/USD) trading on XM, please visit the page below.
-
-ARTICLE ON POLYGON (MATIC/USD) AT XM IS HERE
+You can check MATIC/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Scale (SKL/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/skl.jpg "Large example image")
 
 Highly secure even with sidechains
 
 SKALE Network (SKL) is the native token of the sidechain network (SKALE Network), the second layer of Ethereum, and supports all major token standards of Ethereum (ETH, ERC20, ERC721, Dai, etc.).
 
 Currency unit	SKL
-Issue upper limit	10 billion
-feature	Highly secure even with sidechains
-Price (as of September 2022)	¥5.61
-Market capitalization ranking (as of September 2022)	156th place (¥20,781,120,238)
-Issue start date	December 2018
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>10 billion</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Highly secure even with sidechains</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥5.61</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>156th place (¥20,781,120,238)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>December 2018</td>
+    </tr>
+</table>
+
 The trading conditions for the scale (SKL/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	SKL USD
-content	SKALE vs US Dollar
-Minimum price change	0.00001
-minimum price movement	USD 0.01
-Value per lot	1000 SKALE
-lowest spread	0.002
-Minimum/maximum trade size	0.01/7600
-Limit and stop levels*	0
-Maximum number of total traded lots	15200
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>SKLUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>SKALE vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00001</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.01</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 SKALE</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.002</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/7600</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>15200</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-2100	2	1:50
-2100+	100	1:1
-You can check the SKL/USD transaction on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-2100</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>2100+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE SKL/USD (XM OFFICIAL WEBSITE)
-For a detailed article on scale (SKL/USD) trading on XM, please visit the page below.
-
-CLICK HERE FOR AN ARTICLE ABOUT THE SCALE (SKL/USD) AT XM
+You can check SKL/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Synthetics (SNX/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/snx.jpg "Large example image")
 
 A protocol that can issue synthetic assets
 
@@ -1081,76 +2479,206 @@ Synthetics Network Token (SNX) is the Ethereum token that powers Synthetics, a d
 Synthetic assets are created when token holders stake SNX as collateral using decentralized applications and the protocol currently supports synthetic fiat currencies, crypto-assets and commodities.
 
 Currency unit	SNX
-Issue upper limit	Unlimited
-feature	A protocol that can issue synthetic assets
-Price (as of September 2022)	¥359.10
-Market capitalization ranking (as of September 2022)	67th place (¥85,472,547,763)
-Issue start date	September 2017
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>Unlimited</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>A protocol that can issue synthetic assets</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥359.10</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>67th place (¥85,472,547,763)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>September 2017</td>
+    </tr>
+</table>
+
 The trading conditions for Synthetics (SNX/USD) on XM are as follows.
 
-Margin requirement rate	2%
-symbol	SNXUSD
-content	Synthetix Network Token vs US Dollar
-Minimum price change	0.00100
-minimum price movement	USD 1
-Value per lot	1000 Synthetix Network Tokens
-lowest spread	0.1
-Minimum/maximum trade size	0.01/120
-Limit and stop levels*	0
-Maximum number of total traded lots	240
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>SNXUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Synthetix Network Token vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00100</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 1</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 Synthetix Network Tokens</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.1</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/120</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>240</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-100	2	1:50
-100+	100	1:1
-You can check SNX/USD trading on XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-100</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>100+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE SNX/USD (XM OFFICIAL WEBSITE)
-For a detailed article on trading synthetics (SNX/USD) on XM, please visit the page below.
-
-ARTICLE ON SYNTHETICS (SNX/USD) AT XM IS HERE
+You can check SNX/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Solana (SOL/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/sol.jpg "Large example image")
 
 Transaction processing speed is fast
 
 Transaction processing speed is faster than Ripple (XRP), which is generally said to have faster processing speed, and Solana/SOL can reduce gas costs (commissions) compared to others, so Ethereum It is said that you don't have to suffer from scalability issues like this.
 
 Currency unit	SOL
-Issue upper limit	500 million
-feature	Transaction processing speed is fast
-Price (as of September 2022)	¥4,852.64
-Market capitalization ranking (as of September 2022)	9th place (¥1,722,256,770,907)
-Issue start date	March 2020
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>500 million</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Transaction processing speed is fast</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥4,852.64</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>9th place (¥1,722,256,770,907)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>March 2020</td>
+    </tr>
+</table>
+
 The trading conditions for Solana (SOL/USD) on XM are as follows.
 
-Margin requirement rate	2%
-symbol	SOLUSD
-content	Solana vs US Dollar
-Minimum price change	0.01000
-minimum price movement	USD 0.1
-Value per lot	10 Solanas
-lowest spread	0.15
-Minimum/maximum trade size	0.01/1230
-Limit and stop levels*	0
-Maximum number of total traded lots	2460
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>SOLUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Solana vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.01000</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.1</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>10 Solanas</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.15</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/1230</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>2460</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-600	2	1:50
-600+	100	1:1
-You can check SOL/USD trading on XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-600</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>600+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE SOL/USD (XM OFFICIAL WEBSITE)
-For a detailed article on Solana (SOL/USD) trading on XM, please visit the page below.
-
-READ THE ARTICLE ABOUT SOLANA (SOL/USD) ON XM HERE
+You can check SOL/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Storage (STORJ/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/storj.jpg "Large example image")
 
 crypto currency used in distributed cloud storage services
 
@@ -1159,38 +2687,103 @@ Unlike centralized services such as Dropbox and Google Drive, the storage is dec
 And since the data is encrypted on the blockchain, it also has the advantage of high security.
 
 Currency unit	STORJ
-Issue upper limit	Unlimited
-feature	Decentralized cloud storage
-Price (as of September 2022)	¥66.80
-Market capitalization ranking (as of September 2022)	134th place (¥27,584,851,075)
-Issue start date	2018
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>Unlimited</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Decentralized cloud storage</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥66.80</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>134th place (¥27,584,851,075)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>2018</td>
+    </tr>
+</table>
+
 The trading conditions for storage (STORJ/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	STORJUSD
-content	Storj vs US Dollar
-Minimum price change	0.00010
-minimum price movement	USD 0.1
-Value per lot	1000 Storj
-lowest spread	0.015
-Minimum/maximum trade size	0.01/725
-Limit and stop levels*	0
-Maximum number of total traded lots	1450
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>STORJUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Storj vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00010</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.1</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 Storj</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.015</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/725</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>1450</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-300	2	1:50
-300+	100	1:1
-You can check the STORJ/USD transaction on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-300</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>300+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE STORJ/USD (XM OFFICIAL WEBSITE)
-For a detailed article on Stor (STORJ/USD) trading on XM, please see the page below.
-
-CLICK HERE FOR AN ARTICLE ABOUT STORAGE (STORJ/USD) AT XM
+You can check STORJ/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Sushi Swap (SUSHI/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/sushi.jpg "Large example image")
 
 SushiSwap governance token
 
@@ -1201,38 +2794,103 @@ If you deposit currency with SushiSwap, you can get your own token SUSHI as a re
 Also, if you deposit SUSHI to Uniswap, you can get Uniswap's unique token UNI as a reward.
 
 Currency unit	SUSHI
-Issue upper limit	250 million sheets
-feature	SushiSwap governance token
-Price (as of September 2022)	¥158.74
-Market capitalization ranking (as of September 2022)	159th place (¥20,199,083,008)
-Issue start date	August 2020
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>250 million</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>SushiSwap governance token</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥158.74</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>159th place (¥20,199,083,008)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>August 2020</td>
+    </tr>
+</table>
+
 The trading conditions of Sushi Swap (SUSHI/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	SUSHI USD
-content	SushiSwap vs US Dollar
-Minimum price change	0.00100
-minimum price movement	USD 1
-Value per lot	1000 SushiSwap
-lowest spread	0.045
-Minimum/maximum trade size	0.01/330
-Limit and stop levels*	0
-Maximum number of total traded lots	660
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>SUSHIUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>SushiSwap vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00100</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 1</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 SushiSwap</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.045</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/330</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>660</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-100	2	1:50
-100+	100	1:1
-You can check the SUSHI/USD transaction on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-100</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>100+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE SUSHI/USD (XM OFFICIAL WEBSITE)
-For a detailed article on Sushi Swap (SUSHI/USD) trading at XM, please see the page below.
-
-CLICK HERE FOR AN ARTICLE ABOUT SUSHI SWAP (SUSHI/USD) AT XM
+You can check SUSHI/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Universal Market Access (UMA/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/uma.jpg "Large example image")
 
 Excellent compatibility with "DeFi"
 
@@ -1241,110 +2899,305 @@ UMA is an open-source protocol that allows you to synthesize any existing assets
 Using UMA, you can create synthetic assets that track a wide range of unique indices, from the S&P 500 to the Nikkei Stock Average.
 
 Currency unit	UMA
-Issue upper limit	100 million
-feature	Excellent compatibility with "DeFi"
-Price (as of September 2022)	¥341.56
-Market capitalization ranking (as of September 2022)	149th place (¥23,518,949,732)
-Issue start date	August 2020
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>100 million</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>Excellent compatibility with "DeFi"</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥341.56</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>149th place (¥23,518,949,732)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>August 2020</td>
+    </tr>
+</table>
+
 The trading conditions for Universal Market Access (UMA/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	UMA USD
-content	UMA vs US Dollar
-Minimum price change	0.01000
-minimum price movement	USD 10
-Value per lot	1000 UMA
-lowest spread	0.07
-Minimum/maximum trade size	0.01/165
-Limit and stop levels*	0
-Maximum number of total traded lots	330
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>UMAUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>UMA vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.01000</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 10</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 UMA</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.07</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/165</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>330</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-100	2	1:50
-100+	100	1:1
-You can check the UMA/USD trading on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-100</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>100+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE UMA/USD (XM OFFICIAL WEBSITE)
-For more articles on Universal Market Access (UMA/USD) trading on XM, please visit the page below.
-
-ARTICLE ON UNIVERSAL MARKET ACCESS (UMA/USD) AT XM IS HERE
+You can check UMA/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Uniswap (UNI/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/uni.jpg "Large example image")
 
 "AMM type" DEX using smart contract function
 
 AMM (Automated Market Maker) is a system that executes automatic trading according to certain rules, and the market autonomously provides liquidity, so even DEX without a central administrator can trade smoothly. I can do it.
 
 Currency unit	UNI
-Issue upper limit	1 billion
-feature	"AMM type" DEX using smart contract function
-Price (as of September 2022)	¥854.40
-Market capitalization ranking (as of September 2022)	18th place (¥651,233,552,627)
-Issue start date	November 2018
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>1 billion</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>"AMM type" DEX using smart contract function</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥854.40</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>18th place (¥651,233,552,627)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>November 2018</td>
+    </tr>
+</table>
+
 The trading conditions of Uniswap (UNI/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	UNIUSD
-content	Uniswap vs US Dollar
-Minimum price change	0.01000
-minimum price movement	USD 1
-Value per lot	100 Uniswap
-lowest spread	0.07
-Minimum/maximum trade size	0.01/560
-Limit and stop levels*	0
-Maximum number of total traded lots	1120
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>UNIUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>Uniswap vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.01000</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 1</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>100 Uniswap</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.07</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/560</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>1120</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-300	2	1:50
-300+	100	1:1
-You can check UNI/USD trading on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-300</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>300+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE UNI/USD (XM OFFICIAL WEBSITE)
-For more information on Uniswap (UNI/USD) trading on XM, please visit the page below.
-
-CLICK HERE FOR AN ARTICLE ON UNISWAP (UNI/USD) AT XM
+You can check UNI/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Zero X (ZRX/USD)
 
-![placeholder](/assets/img/xm-account-type.jpg "Large example image")
+![placeholder](/assets/img/crypto/zrx.jpg "Large example image")
 
 "AMM type" DEX using smart contract function
 
 AMM (Automated Market Maker) is a system that executes automatic trading according to certain rules, and the market autonomously provides liquidity, so even DEX without a central administrator can trade smoothly. I can do it.
 
 Currency unit	ZRX
-Issue upper limit	1 billion
-feature	"AMM type" DEX using smart contract function
-Price (as of September 2022)	¥39.82
-Market capitalization ranking (as of September 2022)	122nd place (¥33,745,161,099)
-Issue start date	August 2017
+<table>
+    <tr>
+      <td>Issue upper limit</td>
+      <td>1 billion</td>
+    </tr>
+    <tr>
+      <td>feature</td>
+      <td>"AMM type" DEX using smart contract function</td>
+    </tr>
+    <tr>
+      <td>Price (as of December 2022)</td>
+      <td>¥39.82</td>
+    </tr>
+    <tr>
+      <td>Market capitalization ranking (as of December 2022)</td>
+      <td>122nd place (¥33,745,161,099)</td>
+    </tr>
+    <tr>
+      <td>Issue start date</td>
+      <td>August 2017</td>
+    </tr>
+</table>
+
 The trading conditions for Zero X (ZRX/USD) at XM are as follows.
 
-Margin requirement rate	2%
-symbol	ZRXUSD
-content	0x vs US Dollar
-Minimum price change	0.00001
-minimum price movement	USD 0.01
-Value per lot	1000 0x
-lowest spread	0.0065
-Minimum/maximum trade size	0.01/1405
-Limit and stop levels*	0
-Maximum number of total traded lots	2810
+<table>
+    <tr>
+      <td>Margin requirement rate</td>
+      <td>2%</td>
+    </tr>
+    <tr>
+      <td>symbol</td>
+      <td>ZRXUSD</td>
+    </tr>
+    <tr>
+      <td>content</td>
+      <td>0x vs US Dollar</td>
+    </tr>
+    <tr>
+      <td>Minimum price change</td>
+      <td>0.00001</td>
+    </tr>
+    <tr>
+      <td>minimum price movement</td>
+      <td>USD 0.01</td>
+    </tr>
+    <tr>
+      <td>Value per lot</td>
+      <td>1000 0x</td>
+    </tr>
+    <tr>
+      <td>lowest spread</td>
+      <td>0.0065</td>
+    </tr>
+    <tr>
+      <td>Minimum/maximum trade size</td>
+      <td>0.01/1405</td>
+    </tr>
+    <tr>
+      <td>Limit and stop levels</td>
+      <td>* 0</td>
+    </tr>
+    <tr>
+      <td>Maximum number of total traded lots</td>
+      <td>2810</td>
+    </tr>
+</table>
+
 * Minimum distance to set a pending order at the current market price.
 
-lot quantity	Margin (%)	leverage
-0-600	2	1:50
-600+	100	1:1
-You can check the ZRX/USD trading on the XM official website below.
+<table>
+  <thead>
+    <tr>
+      <th>lot quantity</th>
+      <th>Margin (%)</th>
+      <th>leverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0-600</td>
+      <td>2</td>
+      <td>1:50</td>
+    </tr>
+    <tr>
+      <td>600+</td>
+      <td>100</td>
+      <td>1:1</td>
+    </tr>
+  </tbody>
+</table>
 
-TRADE ZRX/USD (XM OFFICIAL SITE)
-For a detailed article on trading Zerox (ZRX/USD) on XM, please see the page below.
-
-CLICK HERE FOR AN ARTICLE ON ZERO X (ZRX/USD) AT XM
+You can check ZRX/USD trading on the [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 ### Cons of crypto currency TRADING AT XM
 
@@ -1403,18 +3256,15 @@ Finally, let's check the "summary" about crypto currency trading.
 
 ### SUMMARY
 
-crypto currency transaction summary image at XM
+XM restarted handling crypto currencies from May 2022.
 
-XM will resume handling crypto currencies from May 2022.
+Cryptocurrency trading on XM in the past had no merit, but this time is not like before, the new conditions are very attractive for many crypto currency traders with a fulfilling look that even users who regularly use crypto currency exchanges can keep an eye on. 
 
-crypto currency trading on XM in the past had little merit, but this time's trading conditions are expected to attract many crypto currency traders with a fulfilling look that even users who regularly use crypto currency exchanges can keep an eye on. increase.
-
-With leverage up to 250 times, swap-free and commission-free, and a zero-cut system, you can now trade crypto currencies with unique advantages using XM points.
+With leverage up to x250s, swap-free and commission-free, and a zero-cut system, you can now trade crypto currencies with unique advantages using XM points.
 
 You can check the crypto currency CFD on the XM official website below.
 
 crypto currency CFD (XM OFFICIAL WEBSITE)
 If you haven't opened an account yet, please do so by clicking the link below.
 
-OPEN A TRADING ACCOUNT
-TO XM OFFICIAL WEBSITE
+Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
