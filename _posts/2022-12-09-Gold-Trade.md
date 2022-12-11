@@ -2,7 +2,7 @@
 date: 2022-12-02 13:24:49
 layout: post
 title: Gold Trade
-description: On the official website of XM, gold (GOLD)current price, And you can check the trend of buying and selling gold of XM users.
+description: On the official website of XM, Goldcurrent price, And you can check the trend of buying and selling gold of XM users.
 image: /assets/img/gold.jpg
 optimized_image: /assets/img/gold.jpg
 subtitle: gold-trade
@@ -18,7 +18,7 @@ author: e-FX
 
 UNDERSTAND THE CHARACTERISTICS OF XM GOLDBUILD UP IN A SHORT PERIOD OF TIME
  
-On the official website of XM, gold (GOLD)current price, And you can check the trend of buying and selling gold of XM users.
+On the official website of XM, Goldcurrent price, And you can check the trend of buying and selling gold of XM users.
 
 You can check the gold trading trend on the XM official website below.
 
@@ -117,18 +117,18 @@ Prices rise in proportion to demand for industrial goods and electrical applianc
 When the world economy becomes unstable, it is chosen as a risk avoidance destination
 USD and gold are correlated Long-term price increases are likely
 
-#### Gold feature 1
+#### Feature 1
 
 of industrial products and electrical appliancesproportional to demandrise in price
 
 Gold transaction proportional image
 
-Since gold (gold) is used in many industrial products and electrical appliances, the value of gold increases as the demand for industrial products and electrical appliances increases.
+Since Gold is used in many industrial products and electrical appliances, the value of gold increases as the demand for industrial products and electrical appliances increases.
 
 points
 In order to know the price rise of gold, it is recommended to be aware of the performance and stock indices of companies that handle industrial products and electrical appliances.
 
-#### Gold feature 2
+#### Feature 2
 
 When the world economy becomes unstableas a risk avoidance destinationTo be elected
 
@@ -140,7 +140,7 @@ It is often called "emergency gold" that "anxiety in the global economy = increa
 
 Of course, it is important to be aware of the above risks even in XM FX trading, but in the case of gold, fluctuations are extremely rapid, so be especially aware.
 
-#### Gold feature 3
+#### Feature 3
 
 USD and goldcorrelated
 
@@ -152,42 +152,115 @@ Conversely, when USD/JPY is in an upward trend (the value of the US dollar is hi
 
 Therefore, by checking the USD/JPY chart, you can make a judgment about gold's movement.
 
-#### Gold feature 4
+#### Feature 4
 
 long term price increaseProbability is high
 
 Image of gold trading rising in the long term
 
-The total amount of gold that has been excavated all over the world so far is actually 180,000 tons, equivalent to three competition pools, and the unmined gold (gold) remaining in the ground is 53,000. It's called a ton.
+The total amount of gold that has been excavated all over the world so far is actually 180,000 tons, equivalent to three competition pools, and the unmined Gold remaining in the ground is 53,000. It's called a ton.
 
-Next, let's check the countries with large reserves of gold.
 
-OF GOLDCOUNTRIES WITH LARGE RESERVES
 Countries with large gold reserves in 2020 are as follows.
 
-RANK  COUNTRY NAME  RESERVES (TONS) (2020)
-First place Australia 10,000
-2nd place Russia  7,500
-3rd place United States of America (United States)  3,000
-4th Peru  2,700
-4th South Africa  2,700
-6th place Indonesia 2,600
-7th place Brazil  2,400
-8th place Canada  2,200
-9th place China 2,000
-10th  Uzbekistan  1,800
+
+<table>
+  <tr> 
+      <th>RANK</th>
+      <th>COUNTRY</th>
+      <th>RESERVES (TONS) </th>
+    </tr>
+    <tr>
+      <td>1st</td>
+      <td>Australia</td>
+      <td>10,000</td>
+    </tr>
+    <tr>
+      <td>2nd</td>
+      <td>Russia</td>
+      <td>7,500</td>
+    </tr>
+    <tr>
+      <td>3rd</td>
+      <td>United States</td>
+      <td>3,000</td>
+    </tr>
+    <tr>
+      <td>4th</td>
+      <td>Peru</td>
+      <td>2,700</td>
+    </tr>
+    <tr>
+      <td>4th</td>
+      <td>South Africa</td>
+      <td>2,700</td>
+    </tr>
+    <tr>
+      <td>6th</td>
+      <td>Indonesia</td>
+      <td>2,600</td>
+    </tr>
+    <tr>
+      <td>7th</td>
+      <td>Brazil</td>
+      <td>2,400</td>
+    </tr>
+    <tr>
+      <td>8th</td>
+      <td>Canada</td>
+      <td>2,200</td>
+    </tr>
+    <tr>
+      <td>9th</td>
+      <td>China</td>
+      <td>2,000</td>
+    </tr>
+    <tr>
+      <td>10th</td>
+      <td>Uzbekistan</td>
+      <td>1,800</td>
+    </tr>
+</table>
+
 Let's take a look at the countries that actually produce a lot of gold.
 
-OF GOLDCOUNTRIES WITH HIGH PRODUCTION VOLUME
 The top 5 countries with the highest gold output in 2020 are as follows.
 
-RANK  COUNTRY NAME  OUTPUT (TONS) (2020)
-First place People's Republic of China (China)  380
-2nd place Australia 320
-3rd place Russia  300
-4th United States of America (United States)  190
-5th place Canada  170
-Source: US Geological Survey - Mineral commodity summaries
+<table>
+  <tr> 
+      <th>RANK</th>
+      <th>COUNTRY</th>
+      <th>RESERVES (TONS) </th>
+    </tr>
+    <tr>
+      <td>1st</td>
+      <td>China</td>
+      <td>380</td>
+    </tr>
+    <tr>
+      <td>2nd</td>
+      <td>Australia</td>
+      <td>320</td>
+    </tr>
+    <tr>
+      <td>3rd</td>
+      <td>Russia</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td>4th</td>
+      <td>United States</td>
+      <td>190</td>
+    </tr>
+    <tr>
+      <td>4th</td>
+      <td>Canada</td>
+      <td>170</td>
+    </tr>
+  </table>
+
+(Source: US Geological Survey - Mineral commodity summaries)
+
 In addition, it is used as a material for industrial products and electrical appliances, and it is difficult to imagine that the number of electronic devices will decrease in the future, so it is thought that the demand for gold will continue to increase.
 
 Since the remaining amount to be mined is limited, it is highly likely that the price of gold, which is likely to become scarcer in the future, will rise in the long term.
@@ -209,22 +282,22 @@ As mentioned above, the number of traders who trade gold on XM is increasing yea
 
 Compared to FX currency, gold trading can increase assets in an overwhelmingly short time, but conversely, even when you suffer a loss, gold trading is fast, so let's trade carefully.
 
-So far, we have looked at the "gold (GOLD) trading" in detail.
+So far, we have looked at the "Gold trading" in detail.
 
 Finally, let's take a look at the "summary" about gold trading at XM.
 
-SUMMARY: GOLD TRADING
+
+### SUMMARY
+
 Gold transaction summary image
 
 At XM, it is possible to trade Gold with high leverage in the same way as FX.
 
-Gold (GOLD) is also compatible with scalping, so it is recommended because there are many opportunities to make a big profit.
+Gold is also compatible with scalping, so it is recommended because there are many opportunities to make a big profit.
 
-What you need to be careful about when trading with gold (GOLD) is that the volatility is very high, so losses may increase at once.
+What you need to be careful about when trading with Gold is that the volatility is very high, so losses may increase at once.
 
 Even though there is XM's zero cut system, be sure to cut losses, manage risk properly, and trade gold with peace of mind.
-
-While the seven major countries (G7) have banned the import of gold from Russia as sanctions against Russia that invaded Ukraine, there is a strong view that the short-term impact will be limited, but the medium- to long-term impact will be gold. There is also the possibility that countries that are concerned about the liquidity of gold will lose their willingness to purchase gold and that the number of buyers in the market will decrease, which will have a major impact on central banks, institutional investors, and individuals holding gold in Europe and the United States.
 
 However, for now gold trading still has the potential to generate greater profits with less capital than trading other Forex currencies.
 
@@ -232,12 +305,7 @@ Gold trading at XM is one of the most attractive trading styles.
 
 If you have no experience trading gold at XM yet, let's take this opportunity to start trading gold at XM.
 
-Please see the following pages for detailed articles on various precious metals.
-
-CLICK HERE FOR ARTICLES ABOUT SILVER
-PLATINUM TRADE
-CLICK HERE FOR ARTICLES ON PALLADIUM
-If you haven't opened an XM account yet, let's open an account first from the link below.
+Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
 
 
 
