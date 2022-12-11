@@ -28,6 +28,7 @@ It is displayed alongside other currencies at the top of the footer of the top p
 
 First, let’s take a look at the benefits of trading gold with XM.
 
+
 ### BENEFITS OF TRADE GOLD WITH XM
 
 - trends tend to continue in the same direction
@@ -54,7 +55,7 @@ The advantage is that the charts are relatively easy to analyze on XM as the tre
 Advantages of trading gold
 
 
-#### Why the volatilityexpensive?
+#### Why the volatility is so high?
 
 
 In the case of FX exchange, the rate does not change significantly throughout the year, but gold has overwhelmingly high volatility because the price fluctuates significantly throughout the year, and the fluctuation tends to occur many times a year. I have.
@@ -67,7 +68,7 @@ Gold can move more than 200 pips in an hour, so gold is a very attractive stock 
 Advantages of trading gold
 
 
-#### Why scalpingIt's easy to do?
+### Why scalping is easy?
 
 
 Because gold is highly volatile, it tends to be easy to earn large profit margins in a short period of time.
@@ -81,29 +82,26 @@ The fact that it is easy to make a profit in a short time means that you may suf
 
 Now let's take a closer look at the timing of gold price fluctuations, which is important to traders.
 
-GOLD PRICE BIGFLUCTUATING TIMING
-Gold trading timing image
+### The proper timing of Gold Trading
 
 There are three time periods in which the price of gold moves:
 
-Early morning Asian time
-When European time changes
-US index announcement
-When the price of gold moves 1
+- Early morning in Asian time
 
-Asian time early morning
+- When European time changes
+
+- US index announcement
+
+
+#### Timing 1: Asian time early morning
 
 In the early morning of Asian time, it starts to move slowly, but it may fluctuate greatly due to the previous day's reaction.
 
-Time zone 2 when the price of gold moves
-
-When European time changes
+#### Timing 2: When European time changes
 
 When the European market starts, there is a strong tendency to start moving all at once, in contrast to the gradual movement up to that point, and there are cases where trend formation begins.
 
-When the price of gold moves 3
-
-US index announcement
+#### Timing 3: US index announcement
 
 Due to the large number of US traders that characterize gold, the greatest volatility occurs during US indicator releases and US market openings.
 
@@ -111,16 +109,15 @@ When trading with gold, be sure to trade with the above three timings in mind.
 
 Next, let's take a closer look at the features of GOLD.
 
-FEATURES OF GOLD
-Gold feature image
+### FEATURES OF GOLD
 
 GOLD has the following four characteristics.
 
 Prices rise in proportion to demand for industrial goods and electrical appliances
 When the world economy becomes unstable, it is chosen as a risk avoidance destination
-USD and gold are correlated
-Long-term price increases are likely
-Gold feature 1
+USD and gold are correlated Long-term price increases are likely
+
+#### Gold feature 1
 
 of industrial products and electrical appliancesproportional to demandrise in price
 
@@ -131,7 +128,7 @@ Since gold (gold) is used in many industrial products and electrical appliances,
 points
 In order to know the price rise of gold, it is recommended to be aware of the performance and stock indices of companies that handle industrial products and electrical appliances.
 
-Gold feature 2
+#### Gold feature 2
 
 When the world economy becomes unstableas a risk avoidance destinationTo be elected
 
@@ -143,7 +140,7 @@ It is often called "emergency gold" that "anxiety in the global economy = increa
 
 Of course, it is important to be aware of the above risks even in XM FX trading, but in the case of gold, fluctuations are extremely rapid, so be especially aware.
 
-Gold feature 3
+#### Gold feature 3
 
 USD and goldcorrelated
 
@@ -155,7 +152,7 @@ Conversely, when USD/JPY is in an upward trend (the value of the US dollar is hi
 
 Therefore, by checking the USD/JPY chart, you can make a judgment about gold's movement.
 
-Gold feature 4
+#### Gold feature 4
 
 long term price increaseProbability is high
 
