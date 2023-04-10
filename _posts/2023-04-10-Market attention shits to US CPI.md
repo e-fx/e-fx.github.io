@@ -56,12 +56,4 @@ There was no significant movement in the US stock futures index last Friday, and
 However, due to the Easter holiday, the stock market is expected to have lower trading volume than usual.
 
 
-
-
-
-
-
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
-
-
-
