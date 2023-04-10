@@ -10,7 +10,7 @@ optimized_image: /assets/img/news-20230410s.jpg
 tags:
   - CPI
   - Payroll
-  - non-farm
+  - nonfarm
   - Gold
 author: e-FX
 ---
