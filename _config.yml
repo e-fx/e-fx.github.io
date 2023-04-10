@@ -28,8 +28,7 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-twitter_username: #efx_trade
-
+twitter_username: efx_trade
 
 # Posts Settings
 show_time_bar: false
@@ -86,6 +85,10 @@ plugins:
   - jekyll-paginate-content
   - jekyll-seo-tag
 
+twitter:
+  username: efx_trade
+  card: summary
+  
 # Exclude my node related stuff
 exclude: [
   'package.json',
