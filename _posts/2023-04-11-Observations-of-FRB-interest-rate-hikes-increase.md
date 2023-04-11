@@ -2,7 +2,7 @@
 date: 2023-04-11 12:00:00
 layout: post
 title: Observations of FRB interest rate hikes increase & fluctuation of the US stock market and USD
-subtitle: Results of US non-farm payroll also continue rate hike expectations Last Friday's strong US employment statistics results clarified the robust movement of the US labor market.
+subtitle: The US stock market revived ahead of the earnings season opening.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 category: 'market news'
 image: /assets/img/news-20230411.jpg
