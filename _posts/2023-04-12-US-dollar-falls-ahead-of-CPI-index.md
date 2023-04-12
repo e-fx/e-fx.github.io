@@ -47,5 +47,4 @@ On Friday of this week, major banks such as Citigroup, JP Morgan, and Wells Farg
 
 Overall, S&P 500 total earnings are predicted to decrease by 5.2% YoY, with a downward revision from the 1.4% growth at the beginning of the quarter.
 
-
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
