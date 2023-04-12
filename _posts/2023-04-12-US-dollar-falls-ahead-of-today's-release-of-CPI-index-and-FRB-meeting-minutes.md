@@ -6,6 +6,7 @@ subtitle: All eyes are on today's release of the US CPI index and the Federal Re
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 category: 'market news'
 image: /assets/img/news-20230412.png
+optimized_image: /assets/img/news-20230412s.jpg
 tags:
   - dollar
   - CPI
