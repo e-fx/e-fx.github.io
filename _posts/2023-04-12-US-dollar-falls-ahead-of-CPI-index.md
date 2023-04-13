@@ -1,10 +1,10 @@
 ---
 date: 2023-04-12 12:00:00
 layout: post
-title: US dollar falls ahead of today's release of CPI index and FRB meeting minutes
+title: US dollar falls ahead of today's release of CPI index
 subtitle: All eyes are on today's release of the US CPI index and the Federal Reserve Bank meeting minutes.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
-category: 'Market News'
+category: 'market news'
 image: /assets/img/news-20230412.png
 tags:
   - dollar

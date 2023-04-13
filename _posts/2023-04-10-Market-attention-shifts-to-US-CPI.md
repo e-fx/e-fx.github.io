@@ -1,10 +1,10 @@
 ---
 date: 2023-04-10 12:00:00
 layout: post
-title: Market attention shifts to US CPI & response to US employment statistics is limited.
+title: Market attention shifts to US CPI & response to US employment statistics is limited
 subtitle: Results of US non-farm payroll also continue rate hike expectations Last Friday's strong US employment statistics results clarified the robust movement of the US labor market.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
-category: 'Market News'
+category: 'market news'
 image: /assets/img/news-20230410.jpg
 optimized_image: /assets/img/news-20230410s.jpg
 tags:
