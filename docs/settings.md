@@ -183,7 +183,7 @@ Set the Twitter username for the website.
 
 ```yaml
 # social.yml
-efx_trade: efx_trade
+twitter_username: efx_trade
 ```
 
 #### `instagram_username`
