@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Blog
-slug: blog
+title: Bonus
+slug: bonus
 description: A category for general blog posts.
 ---
 
