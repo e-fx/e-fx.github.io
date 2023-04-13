@@ -9,7 +9,7 @@ image: >-
   /assets/img/open-account.jpg
 optimized_image: >-
   /assets/img/open-account-s.jpg
-category: blog
+category: Bonus
 tags:
   - xm
   - account
