@@ -1,6 +1,6 @@
 ---
 layout: category
-title: market news
+title: News
 slug: news
 description: A category for news related posts.
 ---

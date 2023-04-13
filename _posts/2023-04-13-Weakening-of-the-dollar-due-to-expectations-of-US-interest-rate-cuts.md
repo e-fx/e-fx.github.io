@@ -4,7 +4,7 @@ layout: post
 title: Weakening of the dollar due to expectations of US interest rate cuts
 subtitle: The US dollar fell against other major currencies.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
-category: 'Market News'
+category: 'news'
 image: /assets/img/news-20230413.png
 tags:
   - dollar
