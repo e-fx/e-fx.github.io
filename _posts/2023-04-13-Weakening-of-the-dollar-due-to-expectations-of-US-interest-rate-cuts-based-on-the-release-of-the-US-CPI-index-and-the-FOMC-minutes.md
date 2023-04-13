@@ -4,7 +4,7 @@ layout: post
 title: Weakening of the dollar due to expectations of US interest rate cuts based on the release of the US CPI index and the FOMC minutes
 subtitle: The US dollar fell against other major currencies due to the release of the US CPI Consumer Price Index for March.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
-category: 'news'
+category: 'Market News'
 image: /assets/img/news-20230413.png
 tags:
   - dollar

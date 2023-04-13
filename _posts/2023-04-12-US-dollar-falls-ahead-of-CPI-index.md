@@ -4,7 +4,7 @@ layout: post
 title: US dollar falls ahead of today's release of CPI index and FRB meeting minutes
 subtitle: All eyes are on today's release of the US CPI index and the Federal Reserve Bank meeting minutes.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
-category: 'news'
+category: 'Market News'
 image: /assets/img/news-20230412.png
 tags:
   - dollar
