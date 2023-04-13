@@ -175,7 +175,7 @@ Set the Facebook username for the website.
 facebook_username: facebook_username
 ```
 
-#### `efx_trade`
+#### `twitter_username`
 
 Type: *string*
 
