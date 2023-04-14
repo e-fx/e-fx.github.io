@@ -7,13 +7,14 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/logo.png" alt="Thiago Rossener" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As a forex introducing broker, we are dedicated to providing our clients with the highest level of service and support. Our mission is to help you achieve your financial goals by providing you with the tools and resources you need to succeed in the forex market.
+
+We understand that navigating the forex market can be complex and overwhelming, which is why we are committed to providing you with expert guidance every step of the way. Our team of experienced professionals is available to answer any questions you may have and to provide you with the knowledge and insight you need to make informed trading decisions.
+
+At our brokerage, we pride ourselves on our integrity, transparency, and commitment to our clients. We believe that by putting our clients first and providing them with the best possible service, we can help them achieve long-term success in the forex market.
+
+So whether you are a seasoned trader or just getting started, we invite you to join our community of forex traders and experience the difference of working with a trusted and reliable introducing broker.
