@@ -4,10 +4,10 @@ title: e-FX | A blog For FX Trading
 description: e-FX is a simple blog for the forex traders
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - XM
+  - forex
+  - traders
+  - usd
 show_hero: true
 menu:
   - title: Home
@@ -39,7 +39,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "e-fx.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 google_analytics: "G-461XHMT01N"
 language: "en"
 categories_folder: category
