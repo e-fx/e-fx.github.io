@@ -4,7 +4,7 @@ layout: post
 title: the US dollar continues to decline while the stock market rises
 subtitle: The weak US producer price index has increased
 description: DAILY MARKET NEWS FOR FX-TRADERS.
-image: /assets/img/news-20230414.png
+image: https://e-fx.github.io/assets/img/news-20230414.png
 category: news
 tags:
   - dollar
