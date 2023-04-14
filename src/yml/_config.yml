@@ -48,7 +48,6 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-paginate-content
-  - jekyll-seo-tag
 
 # Exclude my node related stuff
 exclude: [
