@@ -83,11 +83,6 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-paginate-content
-  - jekyll-seo-tag
-
-twitter:
-  username: efx_trade
-  card: summary
   
 # Exclude my node related stuff
 exclude: [
@@ -101,3 +96,6 @@ exclude: [
   'gulpfile.js',
   'README.md'
 ]
+
+# Theme
+version: v3.1.2
