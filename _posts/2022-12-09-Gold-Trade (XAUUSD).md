@@ -3,10 +3,10 @@ date: 2022-12-02 13:24:49
 layout: post
 title: Gold Trade (XAUUSD)
 description: On the official website of XM, Goldcurrent price, And you can check the trend of buying and selling gold of XM users.
-image: /assets/img/gold.jpg
-optimized_image: /assets/img/gold.jpg
+image: https://e-fx.github.io /assets/img/gold.jpg
+optimized_image: https://e-fx.github.io/assets/img/gold.jpg
 subtitle: gold-trade
-category: 'gold'
+category: gold
 tags:
   - xm
   - gold
