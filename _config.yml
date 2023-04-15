@@ -96,6 +96,3 @@ exclude: [
   'gulpfile.js',
   'README.md'
 ]
-
-# Theme
-version: v3.1.2
