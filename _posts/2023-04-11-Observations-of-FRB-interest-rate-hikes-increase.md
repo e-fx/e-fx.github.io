@@ -4,9 +4,9 @@ layout: post
 title: Observations of FRB interest rate hikes increase & fluctuation of the US stock market and USD
 subtitle: The US stock market revived ahead of the earnings season opening.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
-category: news
 image: https://e-fx.github.io/assets/img/news-20230411.jpg
 optimized_image: https://e-fx.github.io/assets/img/news-20230411s.jpg
+category: news
 tags:
   - FRB
   - fluctuation

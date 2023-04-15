@@ -2,7 +2,7 @@
 date: 2022-12-03T23:48:05.000Z
 layout: post
 title: How to open a XM trading account and get $30 Bonus?
-subtitle: 'Just about 2 minutes will be required until you complete XM account application.'
+subtitle: Just about 2 minutes will be required until you complete XM account application.
 description: XM can be safely recommended to those who are interested in professional trading with high order processing speed.
 image: https://e-fx.github.io/assets/img/open-account.jpg
 optimized_image: https://e-fx.github.io/assets/img/open-account-s.jpg
