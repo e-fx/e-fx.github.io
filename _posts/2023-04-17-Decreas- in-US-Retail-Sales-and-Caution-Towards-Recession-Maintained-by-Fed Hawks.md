@@ -8,9 +8,9 @@ image: https://e-fx.github.io/assets/img/news-20230417.png
 category: news
 tags:
   - dollar
-  - ECB
+  - GOLD
   - FRB
-  - CPI
+  - bond
 author: e-FX
 ---
 
