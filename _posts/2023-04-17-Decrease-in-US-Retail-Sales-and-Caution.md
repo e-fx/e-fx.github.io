@@ -68,4 +68,5 @@ While the strong US dollar has dealt a major blow to gold, it is now rebounding 
 
 Although US bond yields are being maintained near last Friday's high, the uncertainty about the economic outlook is likely to function as support for gold.
 
+
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
