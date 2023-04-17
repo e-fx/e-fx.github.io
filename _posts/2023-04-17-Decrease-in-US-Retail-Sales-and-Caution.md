@@ -2,7 +2,7 @@
 date: 2023-04-17 12:00:00
 layout: post
 title: Decrease in US Retail Sales and Caution
-subtitle: Caution towards a recession is growing following the announcement of a decrease in US retail sales
+subtitle: Caution towards a recession is growing
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230417.png
 category: news
