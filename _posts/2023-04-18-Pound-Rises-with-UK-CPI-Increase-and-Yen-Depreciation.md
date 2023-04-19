@@ -15,7 +15,7 @@ tags:
 author: e-FX
 ---
 
-##  "Pound Rises with UK CPI Increase and Yen Depreciation"
+## "Pound Rises with UK CPI Increase and Yen Depreciation"
 
 Today, the UK CPI consumer price index was announced, showing a higher increase than expected, leading to a rise in the pound.
 

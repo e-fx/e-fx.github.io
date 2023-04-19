@@ -10,7 +10,7 @@ tags:
   - dollar
   - GOLD
   - FRB
-  - bond
+  - recession
 author: e-FX
 ---
 
