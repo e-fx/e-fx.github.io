@@ -7,7 +7,7 @@ description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230418.png
 category: news
 tags:
-  - Chine
+  - China
   - GDP
   - Stock
   - Dollar
