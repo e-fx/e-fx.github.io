@@ -11,6 +11,7 @@ tags:
   - Pound
   - Yen
   - Dollar
+  - UK
 author: e-FX
 ---
 
