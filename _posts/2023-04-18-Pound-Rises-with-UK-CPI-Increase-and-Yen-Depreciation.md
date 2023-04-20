@@ -2,7 +2,7 @@
 date: 2023-04-19 12:00:00
 layout: post
 title: Pound Rises with UK CPI Increase and Yen Depreciation
-subtitle: Pound Rises with Accelerating UK Inflation
+subtitle: Pound Rises with Accelerating UK Inflation.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230419.png
 category: news
