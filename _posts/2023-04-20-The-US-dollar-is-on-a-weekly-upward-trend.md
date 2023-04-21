@@ -61,7 +61,7 @@ On the other hand, AT&T's stock price fell more than 10% after revenue and free 
 
 Concerns about the US economy continue to weigh on the stock market, but the expectation of interest rate cuts by the end of the year may keep investing in stocks as an option, so it may be premature to view it as a long-term bearish trend.
 
-Although the S&P 500 is struggling to break through the 4,150 wall, data suggesting a decline in interest rates could give it momentum to break through that wall.
+Although the S&P500 is struggling to break through the 4,150 wall, data suggesting a decline in interest rates could give it momentum to break through that wall.
 
 If the index falls below 3,800, the outlook is likely to remain bleak for some time.
 
