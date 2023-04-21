@@ -2,7 +2,7 @@
 date: 2023-04-21 12:00:00
 layout: post
 title: The US dollar is on a weekly upward trend
-subtitle: Despite yesterday's decline against most major currencies, the US dollar seems to be recovering today.
+subtitle: the US dollar seems to be recovering today.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230421.png
 category: news
