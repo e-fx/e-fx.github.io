@@ -15,7 +15,7 @@ tags:
 author: e-FX
 ---
 
-## "The US dollar is on a weekly upward trend, but expectations of an interest rate cut by the Federal Reserve Board (FRB) are increasing"
+##  "The US dollar is on a weekly upward trend, but expectations of an interest rate cut by the Federal Reserve Board (FRB) are increasing"
 
 Despite yesterday's decline against most major currencies, the US dollar seems to be recovering today.
 
@@ -64,6 +64,7 @@ Concerns about the US economy continue to weigh on the stock market, but the exp
 Although the S&P 500 is struggling to break through the 4,150 wall, data suggesting a decline in interest rates could give it momentum to break through that wall.
 
 If the index falls below 3,800, the outlook is likely to remain bleak for some time.
+
 
 
 
