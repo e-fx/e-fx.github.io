@@ -38,7 +38,7 @@ In contrast to the Fed, the ECB is expected to have a total of 0.75% interest ra
 
 Yesterday, President Lagarde stated that inflation rates in the eurozone are too high and there is still something that can be done with monetary policy to curb inflation.
 
-This statement may meet market expectations, so the decline in EUR/USD may be limited.
+This statement may meet market expectations, so the decline in EURUSD may be limited.
 
 Due to the difference in policies between the Fed and the ECB, the euro may rise above $1.1035 against the US dollar in the near future.
 
@@ -64,7 +64,6 @@ Concerns about the US economy continue to weigh on the stock market, but the exp
 Although the S&P 500 is struggling to break through the 4,150 wall, data suggesting a decline in interest rates could give it momentum to break through that wall.
 
 If the index falls below 3,800, the outlook is likely to remain bleak for some time.
-
 
 
 
