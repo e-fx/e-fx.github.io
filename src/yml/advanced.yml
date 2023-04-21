@@ -1,6 +1,6 @@
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+url: "https://e-fx.github.io/" # the base hostname & protocol for your site
+google_analytics: "G-461XHMT01N"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
