@@ -7,7 +7,7 @@ description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230421.png
 category: news
 tags:
-  - dollar
+  - Dollar
   - FRB
   - ECB
   - Tesla
@@ -15,7 +15,7 @@ tags:
 author: e-FX
 ---
 
-##  "The US dollar is on a weekly upward trend, but expectations of an interest rate cut by the Federal Reserve Board (FRB) are increasing"
+## "The US dollar is on a weekly upward trend, but expectations of an interest rate cut by the Federal Reserve Board (FRB) are increasing"
 
 Despite yesterday's decline against most major currencies, the US dollar seems to be recovering today.
 
@@ -44,7 +44,7 @@ Due to the difference in policies between the Fed and the ECB, the euro may rise
 
 Today, the Japanese yen is the only currency that is not rising against the US dollar.
 
-This is due to the possibility that the Japanese yen has recently become attractive as a safe haven asset amid concerns about the US economy, and the Japanese consumer price index has recovered from -0.6% to 0.4% compared to the previous month, which may have supported the yen.
+This is due to the possibility that the Japanese yen has recently become attractive as a safe haven asset amid concerns about the US economy, and the Japanese consumer price index has recovered from minus 0.6% to 0.4% compared to the previous month, which may have supported the yen.
 
 This data raises doubts about whether Japan's inflation will continue to slow, and expectations for early policy normalization by the Bank of Japan have increased.
 
