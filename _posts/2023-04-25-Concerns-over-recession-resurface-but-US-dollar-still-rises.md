@@ -64,5 +64,4 @@ This trend may be attractive to investors, and even if the stock index declines,
 
 
 
-
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
