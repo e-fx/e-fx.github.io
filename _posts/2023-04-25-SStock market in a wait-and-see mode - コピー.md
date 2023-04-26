@@ -1,20 +1,20 @@
 ---
-date: 2023-04-26 12:00:00
+date: 2023-04-25 12:00:00
 layout: post
-title: Concerns over recession resurface
-subtitle: US dollar rises as a safe haven asset.
-description: DAILY MARKET NEWS FOR FX-TRADERS.
-image: https://e-fx.github.io/assets/img/news-20230426.png
+title: Stock market in a wait-and-see mode
+subtitle: The stock market is in a wait-and-see mode.
+description: The stock market is in a wait-and-see mode. Yesterday's US stock market closed in a tense session amidst heavy uncertainty and is down again today.
+image: https://e-fx.github.io/assets/img/news-20230425.png
 category: news
 tags:
   - USD
   - FRB
   - ECB
-  - Euro
+  - STOCK
 author: e-FX
 ---
 
-## "Concerns over recession resurface but US dollar still rises"
+## "Stock market in a wait-and-see mode, limited movement in both USD and stock prices"
 
 The stock market is in a wait-and-see mode. Yesterday's US stock market closed in a tense session amidst heavy uncertainty and is down again today.
 
