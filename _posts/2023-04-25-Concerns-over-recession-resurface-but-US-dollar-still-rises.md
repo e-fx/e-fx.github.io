@@ -14,7 +14,7 @@ tags:
 author: e-FX
 ---
 
-##  "Concerns over recession resurface but US dollar still rises
+##  "Concerns over recession resurface but US dollar still rises"
 
 US dollar rises as a safe-haven asset.
 Yesterday, the US dollar rose against other major currencies except for the yen due to an inflow of safe-haven assets. However, the US dollar is currently showing a downward trend.
