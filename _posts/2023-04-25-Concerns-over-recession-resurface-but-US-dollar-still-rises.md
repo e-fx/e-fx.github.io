@@ -1,7 +1,7 @@
 ---
 date: 2023-04-26 12:00:00
 layout: post
-title: Concerns over recession resurface but US dollar still rises
+title: Concerns over recession resurface
 subtitle: US dollar rises as a safe-haven asset.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230426.png
@@ -14,7 +14,7 @@ tags:
 author: e-FX
 ---
 
-## "Concerns over recession resurface, but US dollar still rises"
+## "Concerns over recession resurface but US dollar still rises"
 
 US dollar rises as a safe-haven asset.
 Yesterday, the US dollar rose against other major currencies except for the yen due to an inflow of safe-haven assets. However, the US dollar is currently showing a downward trend.
