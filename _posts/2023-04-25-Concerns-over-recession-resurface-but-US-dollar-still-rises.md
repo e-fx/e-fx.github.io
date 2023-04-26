@@ -10,7 +10,7 @@ tags:
   - USD
   - FRB
   - ECB
-  - EURO
+  - Euro
 author: e-FX
 ---
 
