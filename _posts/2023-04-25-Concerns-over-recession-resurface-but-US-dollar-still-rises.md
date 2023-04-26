@@ -36,7 +36,7 @@ Unlike other central banks, the ECB is expected to continue raising rates, suppo
 
 Other central banks that are not expected to cut rates this year are the Bank of England and the Swiss National Bank.
 
-While the US dollar is attracting safe-haven flows, there is still the possibility of further decline in the euro/dollar exchange rate, but a significant turning point is unlikely at this time.
+While the US dollar is attracting safe-haven flows, there is still the possibility of further decline in the euro and dollar exchange rate, but a significant turning point is unlikely at this time.
 
 The gap in policies between the FRB and ECB has attracted bullish investors, but there is also the possibility of a rebound to around 1.1070.
 
@@ -59,7 +59,7 @@ Valuations indicate that many stocks are still overvalued, but leading companies
 
 As a result, some earnings and estimates are expected to be strong, and the present value may continue to rise due to expectations of an interest rate cut by the Federal Reserve.
 
-This trend may be attractive to investors, and even if the stock index declines, the strong performance of high-growth companies may limit losses.
+This trend may be attractive to investors, and even if the stock index declines, the strong performance of high growth companies may limit losses.
 
 
 
