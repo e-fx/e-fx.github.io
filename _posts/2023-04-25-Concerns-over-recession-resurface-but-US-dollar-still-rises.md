@@ -51,7 +51,7 @@ Due to increasing concerns about a recession, some investors may have abandoned 
 
 However, overall, the stock market situation is far from bearish.
 
-Liquidity and expectations of an interest rate cut by the Federal Reserve support the indices, and despite yesterday's decline, the S&P500 remains around the key resistance zone of 4150.
+Liquidity and expectations of an interest rate cut by the Federal Reserve support the indices, and despite yesterday's decline, the SP500 remains around the key resistance zone of 4150.
 
 The futures market is indicating a high opening today due to strong earnings reports from Microsoft and Alphabet.
 
