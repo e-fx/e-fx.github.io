@@ -24,7 +24,7 @@ Yesterday, the US House of Representatives narrowly passed a bill to raise the g
 
 Furthermore, investors are in a situation where they cannot see through the asset sales plan, as the US government has announced that it will not intervene in the bailout of First Republic Bank.
 
-After the Atlanta Fed revised down its GDP for the first quarter by a significant margin from 2.5% a week ago to 1.1% quarter-on-quarter, the US GDP, which is to be announced today, is at risk of a downside surprise.
+After the Atlanta Fed revised down its GDP for the first quarter by a significant margin from 2.5% a week ago to 1.1% quarter on quarter, the US GDP, which is to be announced today, is at risk of a downside surprise.
 
 The reason for this is that the unexpectedly large drop in durable goods orders in March was already factored into the forecast.
 
@@ -37,9 +37,9 @@ According to FF interest rate futures, a 0.25% interest rate hike is expected at
 
 If today's GDP data disappoints, it is likely to put pressure on the US dollar.
 
-Conversely, even if the data unexpectedly rises, it is unlikely that expectations of an interest rate cut will disappear, and the recovery of the US dollar may be limited and short-lived.
+Conversely, even if the data unexpectedly rises, it is unlikely that expectations of an interest rate cut will disappear, and the recovery of the US dollar may be limited and short lived.
 
-With an expected 0.75% interest rate hike by the ECB by the end of this year, the euro-dollar is predicted to remain in an upward trend for some time.
+With an expected 0.75% interest rate hike by the ECB by the end of this year, the euro dollar is predicted to remain in an upward trend for some time.
 
 First policy announcement by BOJ Governor Ueda tomorrow
 On the other hand, tomorrow marks the first policy announcement by Bank of Japan Governor Ueda.
@@ -54,11 +54,11 @@ As a result, some investors were disappointed with the maintenance of the curren
 
 However, if policy revisions are suggested at future meetings, the yen may be supported and rise in value.
 
-The US stock market showed mixed results with the Nasdaq rising nearly 0.5% due to the surge in high-tech stocks, while the Dow Jones and S&P500 both ended in the red amid concerns of a recession, sensitive economic sectors such as industrial stocks saw a decline in prices.
+The US stock market showed mixed results with the Nasdaq rising nearly 0.5% due to the surge in high tech stocks, while the Dow Jones and S&P500 both ended in the red amid concerns of a recession, sensitive economic sectors such as industrial stocks saw a decline in prices.
 
 However, with the expectation of a potential interest rate cut by the Federal Reserve Board and market expectations for earnings reports low, there may be a potential to curb the decline in stocks without causing significant disappointment.
 
-As for commodities, despite data showing a greater than expected decrease in US crude oil inventories last week, crude oil prices fell by about 4% yesterday. As a result, concerns about a market recession have become clearer, which may cast a shadow on future fuel demand despite signs of short-term improvement.
+As for commodities, despite data showing a greater than expected decrease in US crude oil inventories last week, crude oil prices fell by about 4% yesterday. As a result, concerns about a market recession have become clearer, which may cast a shadow on future fuel demand despite signs of short term improvement.
 
 
 
