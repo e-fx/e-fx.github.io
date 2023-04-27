@@ -54,7 +54,7 @@ As a result, some investors were disappointed with the maintenance of the curren
 
 However, if policy revisions are suggested at future meetings, the yen may be supported and rise in value.
 
-The US stock market showed mixed results with the Nasdaq rising nearly 0.5% due to the surge in high tech stocks, while the Dow Jones and S&P500 both ended in the red amid concerns of a recession, sensitive economic sectors such as industrial stocks saw a decline in prices.
+The US stock market showed mixed results with the Nasdaq rising nearly 0.5% due to the surge in high tech stocks, while the Dow Jones and SP500 both ended in the red amid concerns of a recession, sensitive economic sectors such as industrial stocks saw a decline in prices.
 
 However, with the expectation of a potential interest rate cut by the Federal Reserve Board and market expectations for earnings reports low, there may be a potential to curb the decline in stocks without causing significant disappointment.
 
