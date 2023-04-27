@@ -2,7 +2,7 @@
 date: 2023-04-27 12:00:00
 layout: post
 title: Concerns about a recession rise as the US dollar cannot be maintained as a safe asset
-subtitle: The US dollar has fallen against other major currencies. 
+subtitle: The US dollar has fallen. 
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230427.png
 category: news
