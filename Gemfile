@@ -7,4 +7,4 @@ gem "jekyll"
 gem "jekyll-paginate"
 gem "jekyll-paginate-content"
 gem "json"
-
+gem "mini_racer"
