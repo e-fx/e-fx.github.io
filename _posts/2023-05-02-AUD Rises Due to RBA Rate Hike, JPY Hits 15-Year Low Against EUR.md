@@ -4,7 +4,7 @@ layout: post
 title: AUD Rises Due to RBA Rate Hike
 subtitle: New Governor Ueda of the Bank of Japan has announced the continuation of the bank's ultra-easy monetary policy.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
-image: https://e-fx.github.io/assets/img/news-20230502.png
+image: https://e-fx.github.io/assets/img/news-20230502.jpg
 category: news
 tags:
   - AUD
