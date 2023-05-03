@@ -2,7 +2,7 @@
 date: 2023-05-03 12:00:00
 layout: post
 title: USD drops ahead of today's FRB policy decision
-subtitle: New Governor Ueda of the Bank of Japan has announced the continuation of the bank's ultra-easy monetary policy.
+subtitle: The USD fell against other major currencies yesterday and continues to fall today.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230503.jpg
 category: news
