@@ -1,7 +1,7 @@
 ---
 date: 2023-05-03 12:00:00
 layout: post
-title: USD drops ahead of today's FRB policy decision
+title: USD drops ahead of FRB policy decision
 subtitle: The USD fell against other major currencies yesterday and continues to fall today.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230503.jpg
@@ -15,7 +15,7 @@ tags:
 author: e-FX
 ---
 
-##  "USD drops ahead of today's FRB policy decision"
+##  "USD drops ahead of FRB policy decision"
 
 The USD fell against other major currencies yesterday and continues to fall today, reflecting market concerns over the possibility of US default and the ongoing crisis in the banking sector.
 
@@ -27,7 +27,7 @@ The decline in job vacancies reported in the JOLTS report for March, the fourth 
 
 Following the release of this data a day before the FRB meeting, the market seems to be confident that the FRB will pause rate hikes after today's policy decision and begin cutting rates in the second half of the year.
 
-While a 0.25% rate hike is expected at today's policy decision, a cut of around 0.75% is also priced in by year-end.
+While a 0.25% rate hike is expected at today's policy decision, a cut of around 0.75% is also priced in by year end.
 
 Possibility of the last rate hike by the FRB
 Today's rate hike is expected to be a foregone conclusion, so it is unlikely to cause a significant market shock.
