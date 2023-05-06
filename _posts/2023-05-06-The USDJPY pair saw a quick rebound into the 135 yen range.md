@@ -14,7 +14,7 @@ tags:
 author: e-FX
 ---
 
-##  "The USD/JPY pair saw a quick rebound into the 135 yen range"
+##  "The USDJPY pair saw a quick rebound into the 135 yen range"
 
 The USD/JPY pair saw a quick rebound into the 135 yen range during NY trading hours today as the release of April's US employment statistics showed that the US labor market remained robust despite the headwinds of the macro environment, which has strengthened the demand for the dollar. However, for now, the 135-yen level appears to be strong resistance.
 
