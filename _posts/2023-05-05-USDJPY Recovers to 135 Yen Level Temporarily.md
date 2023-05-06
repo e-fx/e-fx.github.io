@@ -1,7 +1,7 @@
 ---
 date: 2023-05-05 12:00:00
 layout: post
-title: Dollar-Yen Recovers to 135 Yen Level Temporarily
+title: USDJPY Recovers to 135 Yen Level Temporarily
 subtitle: Strong US Employment Statistics Maintaining US Labor Market Strength.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230505.jpg
