@@ -14,7 +14,7 @@ tags:
 author: e-FX
 ---
 
-##  "As emerging market currencies make progress against the US dollar, there is a strong downward trend in USDMXN"
+##  "As emerging market currencies make progress against the US dollar"
 
 The pair is aiming for support at 17.5000, with major resistance at 17.9492 and 18.2263, and limited potential for upward movement. Despite optimistic data from the US, the USD did not strengthen, causing USDMXN to plummet to a six-year low of 17.7462 during the New York session. As of the time of writing, the USDMXN pair is trading at 17.7480, down 0.92%.
 
