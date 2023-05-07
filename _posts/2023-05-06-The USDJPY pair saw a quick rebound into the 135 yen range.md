@@ -1,7 +1,7 @@
 ---
 date: 2023-05-07 12:00:00
 layout: post
-title: The USDJPY pair saw a quick rebound into the 135 yen range
+title: The USDJPY pair saw a quick rebound into the 135 yen
 subtitle: The 135 yen level appears to be strong resistance.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230507.jpg
