@@ -9,7 +9,7 @@ category: news
 tags:
   - USD
   - JPY
-  - FRC
+  - Powell
   - ECB
 author: e-FX
 ---
