@@ -38,5 +38,4 @@ The strength of the UK housing market has been particularly highlighted, with th
 
 
 
-
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
