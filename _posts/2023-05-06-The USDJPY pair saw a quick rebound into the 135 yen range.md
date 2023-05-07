@@ -11,6 +11,7 @@ tags:
   - JPY
   - Powell
   - ECB
+  - FOMC
 author: e-FX
 ---
 
