@@ -31,9 +31,4 @@ The EUR/USD pair fell below 1.10 in the morning, trading around 1.0990, while th
 
 
 
-
-
-
-
-
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
