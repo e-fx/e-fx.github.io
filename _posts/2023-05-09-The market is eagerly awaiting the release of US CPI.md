@@ -30,4 +30,5 @@ As for EURUSD, there was steady buying throughout the morning following a drop b
 
 
 
+
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
