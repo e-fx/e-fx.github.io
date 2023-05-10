@@ -1,7 +1,7 @@
 ---
 date: 2023-05-10 12:00:00
 layout: post
-title: The market is eagerly awaiting the release of tomorrow's US CPI
+title: The market is eagerly awaiting the release of US CPI
 subtitle: upcoming CPI release will support this view remains to be seen.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230510.jpg
@@ -15,7 +15,7 @@ tags:
 author: e-FX
 ---
 
-##  "The market is eagerly awaiting the release of tomorrow's US CPI"
+##  "The market is eagerly awaiting the release of US CPI"
 
 The market is eagerly awaiting the release of tomorrow's US CPI. Current expectations suggest that both the headline and core indices will continue to remain at high levels, similar to the previous release. Following last week's FOMC, there is growing speculation about the Federal Reserve's decision to pause its interest rate hikes and the possibility of interest rate cuts later in the year. Whether the upcoming CPI release will support this view remains to be seen.
 
