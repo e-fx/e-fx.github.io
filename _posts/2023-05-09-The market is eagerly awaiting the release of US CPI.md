@@ -25,7 +25,7 @@ However, for the Federal Reserve to begin softening its view on inflation, susta
 
 Looking at the currency market, the USDJPY has been cautious ahead of the release of the US CPI at 9:30 PM. Although it rose to around JPY 135.34 earlier in the day, it corrected to JPY 135.07 without reaching the overseas high of JPY 135.36. It has been hovering around JPY 135.20 in the afternoon. Just before London traders joined the market, there was some buying of USD and selling of JPY, pushing the pair above the recent high to JPY 135.40. Expectations for a June interest rate hike have increased, with the probability rising from around 8% to around 25% following last week's FOMC, making USD buying slightly more dominant.
 
-As for EURUSD, there was steady buying throughout the morning following a drop below 1.0950 during overseas trading, pushing it up to 1.0977 in the afternoon. However, just before London traders joined the market, there was some USD buying, causing the pair to move in the 1.0960s. The EURJPY also rose to around the mid 148 yen level, supported by the upward trend of USDJPY.
+As for EURUSD, there was steady buying throughout the morning following a drop below 1.0950 during overseas trading, pushing it up to 1.0977 in the afternoon. However, just before London traders joined the market, there was some USD buying, causing the pair to move in the 1.0960. The EURJPY also rose to around the mid 148 yen level, supported by the upward trend of USDJPY.
 
 
 
