@@ -2,7 +2,7 @@
 date: 2023-05-13 12:00:00
 layout: post
 title: Spread of US inflation expectations leads to a stronger dollar 
-subtitle:  USDJPY rose to around 135.70 yen.
+subtitle:  The USDJPY continued to trade around the 134 yen level in the latter half of the London market.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230513.jpg
 category: news
