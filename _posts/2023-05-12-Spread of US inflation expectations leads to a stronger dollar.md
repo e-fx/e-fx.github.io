@@ -9,9 +9,8 @@ category: news
 tags:
   - USD
   - JPY
-  - PPI
-  - ECB
-  - FOMC
+  - London
+  - Euro
 author: e-FX
 ---
 
