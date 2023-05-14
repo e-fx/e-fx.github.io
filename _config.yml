@@ -18,8 +18,8 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-  - title: /XM Official Link
-    url: https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0
+  - title: XM Official Link
+    url: https://clicks.pipaffiliates.com/c?c=550036&l=en&p=1
 email:
 # See: https://disqus.com/
 disqus_username: disqus_username
