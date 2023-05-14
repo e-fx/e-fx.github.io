@@ -1,7 +1,7 @@
 ---
 date: 2023-05-14 12:00:00
 layout: post
-title:  the USDJPY has difficulty finding direction
+title: the USDJPY has difficulty finding direction
 subtitle: On the recent situation where the dollar buying and yen buying are crossing.
 description: Both dollars and yen has been volatile and unpredictable.
 image: https://e-fx.github.io/assets/img/news-20230514.jpg
