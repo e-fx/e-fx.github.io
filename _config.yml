@@ -19,7 +19,7 @@ menu:
   - title: Feed
     url: /feed.xml
   - title: XM Official Link
-    url: https://clicks.pipaffiliates.com/c?c=550036&l=en&p=1
+    <a href="https://clicks.pipaffiliates.com/c?c=550036&l=en&p=1" class="get-theme" role="button">
 email:
 # See: https://disqus.com/
 disqus_username: disqus_username
