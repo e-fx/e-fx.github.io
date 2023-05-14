@@ -30,5 +30,4 @@ The USDJPY has rebounded slightly after hitting a one week low last week. Althou
 
 
 
-
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
