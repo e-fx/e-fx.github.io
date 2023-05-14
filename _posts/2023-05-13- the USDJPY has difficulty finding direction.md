@@ -2,7 +2,7 @@
 date: 2023-05-14 12:00:00
 layout: post
 title:  the USDJPY has difficulty finding direction 
-subtitle: The USDJPY rebounded after hitting a one week low last week.
+subtitle: On the recent situation where the dollar buying and yen buying are crossing.
 description: On the recent situation where the dollar buying and yen buying are crossing, the USDJPY has difficulty finding direction.
 image: https://e-fx.github.io/assets/img/news-20230514.jpg
 category: news
@@ -27,6 +27,7 @@ In April, the US Producer Price Index (PPI) rose by 2.3% year over year, while t
 The stock market experienced a sharp decline, with the New York Dow falling by more than 400 points at one point. The dollar was preferred over the yen as a risk aversion measure in the foreign exchange market. Although the USDJPY has rebounded somewhat, the upper limit continues to weigh on the movement of the cross yen. Furthermore, the stock price of US regional bank Pacific West Bancorp fell by around 23% due to a 9.5% ($1.5 billion) decrease in deposits during the week ending May 5.
 
 The USDJPY has rebounded slightly after hitting a one week low last week. Although it fell to around 133.74 yen, the lowest level since May 4, it recovered to the mid 134 yen level as the decline in US long term interest rates slowed. The strength of the dollar also supported the USDJPY, as the pound and euro declined due to overbought positions. Additionally, it has become apparent that funds continue to flow out of some US regional banks, and a meeting between the President and the Speaker of the House of Representatives over the debt ceiling issue is scheduled for the following week.
+
 
 
 
