@@ -15,7 +15,7 @@ tags:
 author: e-FX
 ---
 
-##  "On the recent situation where the dollar buying and yen buying are crossing, the USDJPY has difficulty finding direction"
+##  "the USDJPY has difficulty finding direction"
 
 The recent currency market conditions have presented challenges for the USDJPY, as the demand for both dollars and yen has been volatile and unpredictable.
 
