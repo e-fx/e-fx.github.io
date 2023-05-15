@@ -28,5 +28,4 @@ The favorable depreciation of the yen offers promising prospects for economic an
 
 
 
-
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
