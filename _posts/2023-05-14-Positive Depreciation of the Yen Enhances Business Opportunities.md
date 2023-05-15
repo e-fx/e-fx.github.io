@@ -1,8 +1,8 @@
 ---
 date: 2023-05-15 12:00:00
 layout: post
-title: Positive Depreciation of the Yen Enhances Business Opportunities 
-subtitle: the USDJPY pair reaching an upper level of 135 yen. 
+title: Positive Depreciation of the Yen Enhances Business Opportunities
+subtitle: the USDJPY pair reaching an upper level of 135 yen.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230515.jpg
 category: news
@@ -14,7 +14,7 @@ tags:
 author: e-FX
 ---
 
-##  "Positive Depreciation of the Yen Enhances Business Opportunities"
+"Positive Depreciation of the Yen Enhances Business Opportunities"
 
 During the recent weekend, the University of Michigan conducted a comprehensive consumer survey that unveiled inflation expectations surpassing initial forecasts for both short term and long term periods. This unforeseen development resulted in a notable strengthening of the US dollar. Consequently, the trading week commenced with the USDJPY pair reaching an upper level of 135 yen. While a slight adjustment occurred in the morning, briefly pushing the pair down to 135.59 yen, it swiftly rebounded and ascended to 136 yen due to the execution of significant dollar buying orders at the reference rate. Despite some consolidation after this point, the support around 135.70 yen remained resolute, prompting yet another attempt to achieve the 136 yen mark before noon.
 
