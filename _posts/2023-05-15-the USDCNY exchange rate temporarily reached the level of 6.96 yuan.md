@@ -8,9 +8,9 @@ image: https://e-fx.github.io/assets/img/news-20230516.jpg
 category: news
 tags:
   - USD
-  - JPY
+  - Yuan
   - Euro
-  - AUD
+  - JPY
 author: e-FX
 ---
 
