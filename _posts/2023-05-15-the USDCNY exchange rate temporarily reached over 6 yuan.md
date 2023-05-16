@@ -1,7 +1,7 @@
 ---
 date: 2023-05-16 12:00:00
 layout: post
-title: the USDCNY exchange rate temporarily reached the level of 6.96 yuan
+title: the USDCNY exchange rate temporarily reached over 6 yuan
 subtitle: In response to the release of key economic indicators in China
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230516.jpg
@@ -14,7 +14,7 @@ tags:
 author: e-FX
 ---
 
-"the USDCNY exchange rate temporarily reached the level of 6.96 yuan"
+"the USDCNY exchange rate temporarily reached over 6 yuan"
 
 The USDCNY exchange rate briefly touched the level of 6.96 yuan in response to the release of crucial economic indicators in China. The reported figures for China's industrial production, retail sales, and real estate investment, unveiled at 11:00, fell short of market expectations, resulting in a notable selling pressure on the yuan. Consequently, the USDCNY exchange rate shifted from the mid 6.95 range to approximately 6.96. This downward trajectory also exerted an impact on resource based currencies that heavily rely on exports to China, notably the AUDUSD, which witnessed fluctuations around 0.6680, and the AUDJPY, reaching the range of 90.80 yen.
 
