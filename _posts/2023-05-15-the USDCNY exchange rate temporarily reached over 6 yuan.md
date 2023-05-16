@@ -2,7 +2,7 @@
 date: 2023-05-16 12:00:00
 layout: post
 title: the USDCNY exchange rate temporarily reached over 6 yuan
-subtitle: In response to the release of key economic indicators in China
+subtitle: In response to the release of key economic indicators in China.
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230516.jpg
 category: news
