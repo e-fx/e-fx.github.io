@@ -23,7 +23,8 @@ Nevertheless, it is crucial to bear in mind that the issue of the US debt ceilin
 
 Looking ahead, numerous economic indicators are slated for release in international markets. These include the final Eurozone consumer price index for April, South Africa's retail sales for March, the MBA mortgage application index for the US, Brazil's retail sales for March, Canada's international securities transactions for March, and the US housing starts for April.
 
-Furthermore, the upcoming period features noteworthy speaking engagements and events by distinguished individuals such as Decos, the Governor of the Central Bank of Spain, Elderson, an ECB board member, Centeno, the Governor of the Central Bank of Portugal, Dombrovskis, the Vice President of the ECB, and Lane, the Governor of the Central Bank of Finland. Many officials from the European Central Bank will be actively participating in the 18th IESA Banking Industry Conference, titled "Navigating the Waves of Inflation." Additionally, a substantial auction of $15 billion worth of 20 year US bonds is scheduled, and the weekly petroleum inventory statistics for the US will be made public.
+Furthermore, the upcoming period features noteworthy speaking engagements and events by distinguished individuals such as Decos, the Governor of the Central Bank of Spain, Elderson, an ECB board member, Centeno, the Governor of the Central Bank of Portugal, Dombrovskis, the Vice President of the ECB, and Lane, the Governor of the Central Bank of Finland. Many officials from the European Central Bank will be actively participating in the 18th IESA Banking Industry Conference, titled of Navigating the Waves of Inflation. Additionally, a substantial auction of $15 billion worth of 20 year US bonds is scheduled, and the weekly petroleum inventory statistics for the US will be made public.
+
 
 
 
