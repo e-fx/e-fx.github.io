@@ -38,5 +38,4 @@ The upcoming release of April's UK Consumer Price Index garners close attention.
 
 
 
-
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
