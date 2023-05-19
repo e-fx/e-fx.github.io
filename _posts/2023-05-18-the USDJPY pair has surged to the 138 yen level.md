@@ -1,7 +1,7 @@
 ---
 date: 2023-05-19 12:00:00
 layout: post
-title: the USDJPY pair has surged to the 138 yen level
+title: The USDJPY pair has surged to the 138 yen level
 subtitle: Amidst robust demand for the dollar
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230519.jpg
