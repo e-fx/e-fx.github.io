@@ -25,7 +25,7 @@ Contrarily, despite the Federal Reserve's hawkish stance, market expectations fo
 
 With the combined tailwinds of dollar buying and yen weakness, there is an underlying expectation that the USDJPY pair will continue to test higher levels.
 
-EURUSD has breached the critical support level of $1.08, experiencing a temporary decline to around $1.0765 before falling below the 100day moving average and presently trading near $1.0805.
+EURUSD has breached the critical support level of $1.08, experiencing a temporary decline to around $1.0765 before falling below the 100 day moving average and presently trading near $1.0805.
 
 Market suggestions indicate that headwinds in the manufacturing sector could impede Europe's economic recovery. Recent surveys conducted by Germany's ZEW and the French central bank reveal a significant downturn in industrial production, particularly in Italy and Germany, signaling a gloomy outlook for the manufacturing sector.
 
