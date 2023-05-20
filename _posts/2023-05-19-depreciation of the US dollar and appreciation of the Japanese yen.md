@@ -10,6 +10,7 @@ tags:
   - USD
   - JPY
   - Euro
+  - bond
 author: e-FX
 ---
 
