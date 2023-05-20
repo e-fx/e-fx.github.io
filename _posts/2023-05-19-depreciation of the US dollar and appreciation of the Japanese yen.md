@@ -10,7 +10,6 @@ tags:
   - USD
   - JPY
   - Euro
-  - Japanese
   - Yen
 author: e-FX
 ---
