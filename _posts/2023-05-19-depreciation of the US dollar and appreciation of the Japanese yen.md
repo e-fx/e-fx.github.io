@@ -33,5 +33,4 @@ In the EURUSD pair, buying pressure prevailed during the London market session, 
 
 
 
-
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
