@@ -1,7 +1,7 @@
 ---
 date: 2023-05-20 12:00:00
 layout: post
-title: a sharp depreciation of the US dollar and a corresponding appreciation of the Japanese yen
+title: A sharp depreciation of the US dollar and a corresponding appreciation of the Japanese yen
 subtitle: triggering significant shifts in currency markets
 description: DAILY MARKET NEWS FOR FX-TRADERS.
 image: https://e-fx.github.io/assets/img/news-20230520.jpg
@@ -10,7 +10,6 @@ tags:
   - USD
   - JPY
   - Euro
-  - Yen
 author: e-FX
 ---
 
