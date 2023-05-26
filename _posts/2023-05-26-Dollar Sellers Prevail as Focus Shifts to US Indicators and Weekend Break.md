@@ -15,7 +15,7 @@ tags:
 author: e-FX
 ---
 
-"Title: Dollar Sellers Prevail as Focus Shifts to US Indicators and Weekend Break, Prompting Adjustments in Dollar Buying"
+"Dollar Sellers Prevail as Focus Shifts to US Indicators and Weekend Break, Prompting Adjustments in Dollar Buying"
 
 In the context of economic business, the prevailing sentiment in the London market leans towards selling the dollar. Despite a trend of dollar buying earlier this week, adjustments are now being made as market participants prepare for the upcoming weekend, which includes a three-day holiday for both the US and UK markets. The decline in US bond yields is effectively capping the upside potential of the dollar, with the 10-year bond yield retreating from 3.82% to 3.77%. As a result, European and US stock futures, along with after-hours trading, are displaying volatile movements, lacking a clear sense of direction. In anticipation of the latest US Personal Consumption Expenditures (PCE) deflator and other crucial indicators to be released during the later New York session, market sentiment appears cautious.
 
