@@ -25,8 +25,5 @@ In the case of the EUR/USD pair, it reached approximately 1.0690 during the morn
 
 Meanwhile, the EUR/JPY pair experienced fluctuations centered around the 150 yen level. Initially propelled to the 150 yen range due to the upward movement of USD/JPY, it subsequently declined to 149.74 yen due to adjustments in the USD/JPY pair and the sluggish performance of EUR/USD.
 
-Please note that the information provided herein is based on market observations and analysis, and no specific sources or references have been cited.
-
-
 
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
