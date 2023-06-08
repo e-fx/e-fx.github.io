@@ -3,7 +3,7 @@ date: 2023-06-07 12:00:00
 layout: post
 title: The USDJPY pair is currently undergoing a corrective phase
 subtitle: after a notable rally in the previous session.
-description: The USD/JPY pair undergoes a corrective phase following yesterday's rally.
+description: The USD/JPY pair is currently undergoing a corrective phase after a notable rally in the previous session.
 image: https://e-fx.github.io/assets/img/news-20230608.jpg
 category: news
 tags:
