@@ -11,7 +11,7 @@ tags:
   - USD
   - AUD
   - EUR
-  - Chine
+  - China
   - GBP
 author: e-FX
 ---
