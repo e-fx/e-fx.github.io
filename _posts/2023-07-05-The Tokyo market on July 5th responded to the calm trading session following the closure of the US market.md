@@ -1,9 +1,9 @@
 ---
 date: 2023-07-04 12:00:00
 layout: post
-title: The Tokyo market on July 5th responded to the calm trading session following the closure of the US market. 
+title: The Tokyo market responded to the calm trading session following the closure of the US market. 
 subtitle: displaying a composed demeanor.
-description: The Tokyo market on July 5th responded to a tranquil trading session following the closure of the US market, displaying a composed demeanor. 
+description: The Tokyo market responded to a tranquil trading session following the closure of the US market, displaying a composed demeanor. 
 image: https://e-fx.github.io/assets/img/news-20230705.jpg
 category: news
 tags:
@@ -14,7 +14,7 @@ tags:
 author: e-FX
 ---
 
-"The Tokyo market on July 5th responded to a tranquil trading session following the closure of the US market, displaying a composed demeanor"
+"The Tokyo market responded to a tranquil trading session following the closure of the US market, displaying a composed demeanor"
 
 The USD/JPY pair exhibited resilience, maintaining its position around the 144 yen level. Commencing the morning session at 144.40 yen, it briefly touched 144.39 yen before ascending to 144.60 yen during the morning hours, indicative of overall stability.
 
