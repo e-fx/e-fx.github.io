@@ -1,28 +1,27 @@
 ---
-date: 2023-07-09 12:00:00
+date: 2023-07-10 12:00:00
 layout: post
-title: The US dollar recovered to the 143 yen level temporarily
-subtitle: the US dollar fell and reached the 142.00 yen level against the Japanese yen.
-description: Following the release of last week's US employment statistics, the US dollar fell and reached the 142.00 yen level against the Japanese yen. 
-image: https://e-fx.github.io/assets/img/news-20230710.jpg
+title: The USDJPY exchange rate has continued its trend of a weakening US dollar and a strengthening yen
+subtitle: reaching the 140.50 yen level.
+description: The USD/JPY exchange rate has exhibited a consistent pattern of a weakening US dollar and a strengthening yen, culminating in the attainment of the 140.50 yen threshold. 
+image: https://e-fx.github.io/assets/img/news-20230711.jpg
 category: news
 tags:
   - JPY
   - USD
   - Japan
   - EUR
-  - Nikkei
+  - Tokyo
 author: e-FX
 ---
 
-"Following the release of last week's US employment statistics, the US dollar fell and reached the 142.00 yen level against the Japanese yen"
+"The USD/JPY exchange rate has exhibited a consistent pattern of a weakening US dollar and a strengthening yen, culminating in the attainment of the 140.50 yen threshold"
 
-In the aftermath of the release of the latest US employment statistics, the US dollar faced a decline, reaching the 142.00 yen level against the Japanese yen. The new week commenced with the US dollar continuing its downward trajectory, commencing at the 142.10 yen level. However, a surge in demand for the US dollar ensued. The swift correction that followed the significant fluctuation around the 144 yen level in the previous week exhibited signs of exaggerated response. Despite relatively weaker US employment statistics, the projection of an interest rate hike at the upcoming July FOMC meeting remained unchanged. Consequently, the US dollar experienced strength against the yen, driven by the careful consideration of the interest rate differential between Japan and the United States.
+During the latter portion of the previous week, the USD/JPY pair has demonstrated the emergence of a strengthening yen and a weakening US dollar. In the international market, yesterday's trading session witnessed the pair reaching a peak of 141.20 yen. Nevertheless, subsequent to some fluctuations occurring around the mid-141 yen level, the market observed a shift towards a more robust yen and a weaker dollar before noon. While there were indications of a decline in US bond yields, the overall movement was not particularly significant. It became apparent that position adjustments were taking place, specifically the unwinding of prolonged US dollar and short yen positions that had amassed during the recent period characterized by a stronger dollar and a weaker yen. The breach of the 141 yen milestone activated stop-loss orders from short-term traders, generating heightened selling pressure and propelling the pair to 141.60 yen. Following a slight retracement, the pair continued to trade within the upper range of the 140 yen territory, with a slight downward movement to 140.57 yen.
 
-While the Nikkei 225 index soared by 170 yen in the morning session, it subsequently experienced a decline exceeding 490 yen, breaching the pivotal 32,100 yen level. This market movement, coupled with other contributing factors, weighed down on the overall sentiment. Nevertheless, amid the increasing stabilization of the USD/JPY downside, Japanese equities witnessed a resurgence in afternoon trading, further fueling the momentum for US dollar repurchases.
+The euro-dollar pair has derived advantages from the depreciation of the US dollar. Yesterday, the euro-dollar pair, having reached the 1.0940 level in the international market, ascended to approximately 1.10 upon the opening of the Tokyo market, ultimately peaking at 1.1022.
 
-Following the attainment of the 143 yen level, a temporary pause ensued, only to be followed by another downturn, leading to a decline reaching the 142.60 yen level.
+As a consequence of the decline in the USD/JPY, the euro-yen pair experienced a brief encounter with the low level of 155 yen yesterday. As the morning progressed and the USD/JPY pair retraced slightly, the euro-yen pair escalated to 155.60 yen. Nevertheless, the euro remained in a position of weakness, subsequently revisiting the aforementioned low level of 154 yen.
 
-In addition, the euro also exhibited weakness against the US dollar. Initially hovering around the 1.0970 level in the morning, the euro gradually depreciated against the greenback, slipping below the 1.0950 level. The euro-dollar pair had previously witnessed an upswing from the lower 1.08 range to the upper 1.09 range in response to selling pressure on the US dollar towards the end of the previous week. The resulting counter-reaction materialized at the start of the current week.
 
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
