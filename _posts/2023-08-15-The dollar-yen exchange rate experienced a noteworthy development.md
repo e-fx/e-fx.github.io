@@ -17,7 +17,9 @@ tags:
 author: e-FX
 ---
 
-"The dollar-yen exchange rate underwent a significant development today as it advanced to the mid-145 yen range during the New York trading session, propelled by a robust dollar. The surge in US Treasury yields subsequent to last week's release of the US inflation indicators has contributed to the resurgence of dollar demand, driven by heightened recognition of the interest rate differential between Japan and the United States. Despite reaching the 145 yen threshold, a wave of profit-taking sales has emerged; nevertheless, the market seems to be adeptly absorbing this selling pressure.
+"The dollar-yen exchange rate underwent a significant development today as it advanced to the mid-145 yen range during the New York trading session, propelled by a robust dollar"
+
+The surge in US Treasury yields subsequent to last week's release of the US inflation indicators has contributed to the resurgence of dollar demand, driven by heightened recognition of the interest rate differential between Japan and the United States. Despite reaching the 145 yen threshold, a wave of profit-taking sales has emerged; nevertheless, the market seems to be adeptly absorbing this selling pressure.
 
 Within the US bond market, the yield on the 10-year inflation-indexed bond, which signifies the genuine yield post inflation adjustment, has ascended to 1.82%, nearly reaching levels not observed since 2009. Furthermore, the day witnessed an upward momentum of the dollar against the Chinese yuan and the Russian ruble, with influences also stemming from the devaluation of the Argentine peso.
 
