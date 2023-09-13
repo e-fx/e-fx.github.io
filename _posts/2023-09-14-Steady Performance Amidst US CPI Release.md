@@ -14,6 +14,7 @@ tags:
   - CPI
   - FOMC
   - ECB
+  - BoE
 author: e-FX
 ---
 
