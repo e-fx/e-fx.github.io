@@ -17,7 +17,7 @@ tags:
 author: e-FX
 ---
 
-"Title: Dollar-Yen Exchange Continues to Fluctuate Around the 147-Yen Mark - Anticipation Grows Ahead of FOMC Outcomes
+"Dollar-Yen Exchange Continues to Fluctuate Around the 147-Yen Mark - Anticipation Grows Ahead of FOMC Outcomes"
 
 In the current landscape of the New York foreign exchange market, the dollar-yen exchange rate has exhibited consistent fluctuations, primarily within the 147-yen range. The prevailing sentiment is marked by caution, largely stemming from the imminent release of decisions made during this week's Federal Open Market Committee (FOMC) meeting and the policy verdict from the Bank of Japan. While market consensus leans towards the likelihood of interest rates remaining unchanged in the FOMC announcement, investors are vigilantly tracking the Federal Reserve's forthcoming actions.
 
