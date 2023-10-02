@@ -35,4 +35,4 @@ The GBP/USD currency pair also sustains its downward trajectory, trading at leve
 The market has adjusted its expectations regarding further rate hikes by the Bank of England (BoE). Nevertheless, there remains a degree of anticipation for one additional rate increase. Today, we observed remarks from MPC member Mr. Mann, renowned for his hawkish stance. Mr. Mann has not deviated from his core narrative, which accentuates robust domestic demand and the enduring presence of inflationary pressures. However, he has also intimated a necessity for a more restrictive monetary policy stance, hinting at potential support for additional rate hikes in the months ahead.
 
 
-Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p
+Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
