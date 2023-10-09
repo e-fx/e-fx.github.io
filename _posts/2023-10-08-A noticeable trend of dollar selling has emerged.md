@@ -22,7 +22,7 @@ author: e-FX
 
 "In the current foreign exchange landscape, during the New York trading session, a noticeable trend of dollar selling has emerged"
 
-causing the USD/JPY pair to retreat to the mid-148 yen territory. It's essential to recognize that today's activity in the New York forex market has been subdued due to Columbus Day, which is observed as a banking holiday.
+A noticeable trend of dollar selling has emerged, causing the USD/JPY pair to retreat to the mid-148 yen territory. It's essential to recognize that today's activity in the New York forex market has been subdued due to Columbus Day, which is observed as a banking holiday.
 
 However, during the preceding London trading hours, reports surfaced concerning a significant Hamas attack on Israel, resulting in a tragic toll of over 1,100 casualties. This unsettling development triggered risk aversion among investors, leading to an increased appetite for the US dollar as a safe-haven asset.
 
