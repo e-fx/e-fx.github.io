@@ -4,7 +4,7 @@ layout: post
 title: A noticeable trend of dollar selling has emerged
 subtitle: causing the USD/JPY pair to retreat to the mid-148 yen territory.
 description: A noticeable trend of dollar selling has emerged, causing the USD/JPY pair to retreat to the mid-148 yen territory.
-image: https://e-fx.github.io/assets/img/news-20231010.jpg
+image: https://e-fx.github.io/assets/img/news-202310102.jpg
 category: news
 tags:
   - JPY
