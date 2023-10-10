@@ -13,7 +13,7 @@ tags:
   - EUR
   - Dollar
   - Hamas
-  - Istrael
+  - Israel
   - Forex
   - ECB
   - FOMC
