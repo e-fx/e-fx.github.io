@@ -1,5 +1,5 @@
 ---
-date: 2023-10-10 12:00:00
+date: 2023-10-09 12:00:00
 layout: post
 title: A noticeable trend of dollar selling has emerged
 subtitle: causing the USD/JPY pair to retreat to the mid-148 yen territory.
