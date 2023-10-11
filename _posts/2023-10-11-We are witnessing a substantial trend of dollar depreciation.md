@@ -11,7 +11,6 @@ tags:
   - USD
   - GBP
   - EUR
-  - Dollar
   - PPI
   - IMF
   - Forex
