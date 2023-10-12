@@ -1,10 +1,10 @@
 ---
-date: 2023-10-11 12:00:00
+date: 2023-10-10 12:00:00
 layout: post
 title: The USDJPY pair has been trading in the lower 149 yen range
 subtitle: in today's New York foreign exchange market. 
 description: The USDJPY pair has been trading in the lower 149 yen range, in today's New York foreign exchange market.
-image: https://e-fx.github.io/assets/img/news-20231012.jpg
+image: https://e-fx.github.io/assets/img/news-20231011.jpg
 category: news
 tags:
   - JPY
