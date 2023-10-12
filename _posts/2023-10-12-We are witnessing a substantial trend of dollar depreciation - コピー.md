@@ -1,10 +1,10 @@
 ---
-date: 2023-10-10 12:00:00
+date: 2023-10-11 12:00:00
 layout: post
 title: We are witnessing a substantial trend of dollar depreciation
 subtitle: which has momentarily driven the USD/JPY pair down to the mid-148 yen range. 
 description: We are witnessing a substantial trend of dollar depreciation, which has momentarily driven the USD/JPY pair down to the mid-148 yen range.
-image: https://e-fx.github.io/assets/img/news-20231011.jpg
+image: https://e-fx.github.io/assets/img/news-20231012.jpg
 category: news
 tags:
   - JPY
@@ -12,27 +12,35 @@ tags:
   - GBP
   - EUR
   - PPI
-  - IMF
-  - Forex
+  - FRB
+  - FOMC
   - ECB
+  - CPI
+  - HICP
+  - IMF
 author: e-FX
 ---
 
-"We are witnessing a substantial trend of dollar depreciation, which has momentarily driven the USD/JPY pair down to the mid-148 yen range"
+"“In today’s New York foreign exchange market, the USD/JPY pair has been trading in the lower 149 yen range”
 
-It is worth noting that today's market activity is constrained due to Columbus Day, a recognized banking holiday.
+During the afternoon session, the release of the FOMC meeting minutes caused a slight dip in the value of the dollar. These minutes underscore the unanimous consensus among committee members to proceed with caution and advocate for the retention of restrictive interest rates in the near term. While there are indications hinting at a possible conclusion of the rate hike cycle, the Federal Reserve (FRB) has also made it clear that they intend to uphold the current high-interest rate environment.
 
-Within this context, market participants are closely monitoring pronouncements from Federal Reserve officials, particularly in light of the growing anticipation surrounding the conclusion of the Federal Reserve's rate hike cycle. On this note, the statements from Raphael Bostic, President of the Federal Reserve Bank of Atlanta, have underscored a more guarded position, consistent with earlier remarks. Some analysts have pointed out a distinct shift in rhetoric, leading to conjecture that US bond yields might have reached their zenith. The significance of forthcoming events, such as the US Producer Price Index (PPI) report tomorrow, FOMC meeting minutes, and the impending Consumer Price Index (CPI) release, cannot be overstated as they may provide pivotal insights.
+The market reacted to the release of the September US Producer Price Index (PPI) today, which exceeded expectations, primarily due to the surge in gasoline prices. Although there was an initial uptick in the dollar following the announcement, this response was short-lived.
 
-Meanwhile, the Euro to Dollar (EUR/USD) pair is witnessing a resurgence in buying activity. However, it is pertinent to note that the pair has approached the 21-day moving average, hovering around the 1.0605 dollar mark, yet has not displayed self-sustained upward momentum. Looming concerns about economic prospects and the early 2023 speculations of a rate cut by the European Central Bank (ECB) seem to be exerting a dampening effect on the euro's ascent.
+In recent days, market sentiment has been leaning towards the expectation that the US rate hike cycle might be coming to an end, influenced by statements from FRB officials. While today’s PPI data does not directly validate these expectations, market sentiment seems to align with the notion that the rate hike cycle has indeed concluded.
 
-Recent developments include the release of the International Monetary Fund's (IMF) latest global economic outlook, which has led to a downward revision in growth expectations for the Eurozone. The IMF now projects a 0.7% growth rate for 2023 and 1.2% for 2024, reflecting a downgrade from previous July estimates. The largest economy in the region, Germany, has seen its 2023 growth projection adjusted downwards to a negative 0.5%. In contrast, France's growth forecast has been moderately upgraded.
+Looking ahead, tomorrow’s release of the US Consumer Price Index (CPI) will be eagerly anticipated to gauge whether it confirms the prevailing market consensus that the current rate hike cycle has ended while keeping interest rates elevated.
 
-Spain notably maintains the highest growth projections in the region, with expectations of 2.5% growth for the current year and 1.7% in the upcoming year. However, Italy's growth forecasts for 2023 and 2024 have been adjusted downward to 0.7%.
+In light of these developments, the dollar’s recent vigor has slightly subsided. However, it is widely believed that a substantial shift towards a weakening trend in the dollar is improbable unless the expectations for a rate cut become prominent.
 
-The British Pound to US Dollar (GBP/USD) pair has also experienced renewed buying interest. The pair has managed to breach the 21-day moving average, inching towards the 1.2265 dollar threshold. Upcoming developments in the following days are of particular significance. Nevertheless, it is vital to acknowledge that the pound's potential for appreciation predominantly hinges on the trajectory of the US dollar, with no notable intrinsic drivers for the pound itself.
+The EUR/USD pair is currently navigating an uncertain phase, hovering around the 1.06-dollar mark. After surpassing the 21-day moving average, there are indications that the pair may embark on a rebound. Nevertheless, given the economic uncertainties within the Eurozone, the prospects for significant gains by the euro appear challenging. The prevailing sentiment suggests that a self-sustained euro rebound is not imminent.
 
-According to the IMF's latest prognostications, the UK economy is expected to register the slowest growth among major global economies in the upcoming year, primarily due to the influence of high-interest rates. The IMF's forecasts for 2024 project a meager growth rate of 0.6% for the UK, falling below the initial forecast of 1.0% announced earlier this year. While there has been a slight upgrade in this year's growth forecast from 0.4% to 0.5%, it signifies an ongoing deceleration that has persisted since the previous year. The slowdown is attributed to the Bank of England's stringent measures to combat high inflation and the ripple effects of escalating energy prices affecting trade conditions.
+Today, the final figures for Germany’s September Harmonized Index of Consumer Prices (HICP) were released, and these figures remained in line with the initial values. In Germany, a persistent inflation slowdown is expected to continue until 2024. The recent deceleration in September is primarily attributed to the base effect, reflecting the normalization of prices following the subsidized public transportation offer that was implemented from June to August the previous year. Consequently, transportation service prices have declined by 3.9% compared to the previous year, after the substantial 19.8% increase witnessed in August.
 
+However, it is highly probable that Germany’s inflation will continue its gradual decline, signifying the initiation of this trend.
+
+The GBP/USD pair has exhibited fluctuations within the 1.22-dollar range, with movement observed above the 21-day moving average in the mid-1.22-dollar area, fostering expectations of a potential rebound. However, in a market where the anticipation of a stronger dollar persists, it is anticipated that a substantial self-sustained rebound may remain elusive.
+
+On the contrary, the pound has been attracting buying interest against the euro. Given the weak economic data emerging from the Eurozone, it is a challenging prospect for the pound to become overly bearish. It is noteworthy that the International Monetary Fund (IMF) recommended just yesterday that the Bank of England should implement one more rate hike to conclude the rate-cut cycle. Nevertheless, there are voices in the market suggesting that this cycle may have already drawn to a close, in alignment with the European Central Bank (ECB).
 
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
