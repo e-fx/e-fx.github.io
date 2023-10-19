@@ -17,7 +17,9 @@ tags:
 author: e-FX
 ---
 
-"In today's New York foreign exchange market, market attention was drawn to the surprisingly robust retail sales data for September. This unexpected strength prompted an uptick in U.S. bond yields and triggered renewed interest in the dollar against the yen. The USD/JPY pair momentarily touched the mid-149 yen range and approached the critical 150-yen mark once again. Nonetheless, the dollar's strengthening lacked a resounding surge, and an air of caution continues to pervade the market.
+"In today's New York foreign exchange market, market attention was drawn to the surprisingly robust retail sales data for September"
+
+This unexpected strength prompted an uptick in U.S. bond yields and triggered renewed interest in the dollar against the yen. The USD/JPY pair momentarily touched the mid-149 yen range and approached the critical 150-yen mark once again. Nonetheless, the dollar's strengthening lacked a resounding surge, and an air of caution continues to pervade the market.
 
 Despite the ongoing tensions in the Middle East, diplomatic efforts persist, which has left market participants in a state of vigilant observation. Given the alignment of both the dollar and the yen in their current direction, the USD/JPY exchange rate remains in a state of impasse.
 
