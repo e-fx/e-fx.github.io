@@ -1,8 +1,8 @@
 ---
 date: 2023-10-19 12:00:00
 layout: post
-title: The discourse delivered by Federal Reserve Chairman Powell at the prestigious New York Economic Club has set forth a maelstrom of responses within the forex realm
-subtitle: in the contemporary New York foreign exchange market
+title: The discourse delivered by Federal Reserve Chairman Powell at the prestigious New York Economic Club
+subtitle:  has set forth a maelstrom of responses within the forex realm.
 description: The discourse delivered by Federal Reserve Chairman Powell at the prestigious New York Economic Club has set forth a maelstrom of responses within the forex realm.
 image: https://e-fx.github.io/assets/img/news-20231020.jpg
 category: news
