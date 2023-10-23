@@ -1,7 +1,7 @@
 ---
 date: 2023-10-23 12:00:00
 layout: post
-title: The New York foreign exchange market witnessed a significant surge in US dollar sales today
+title: The Market witnessed a significant surge in US dollar sales today
 subtitle: leading to a temporary dip in the USD/JPY pair, which fell to approximately 149.55 yen.
 description: The New York foreign exchange market witnessed a significant surge in US dollar sales today, leading to a temporary dip in the USD/JPY pair, which fell to approximately 149.55 yen.
 image: https://e-fx.github.io/assets/img/news-20231024.jpg
@@ -17,7 +17,9 @@ tags:
 author: e-FX
 ---
 
-"The New York foreign exchange market witnessed a significant surge in US dollar sales today, leading to a temporary dip in the USD/JPY pair, which fell to approximately 149.55 yen. This sudden drop was instigated by the rapid decrease in the yield of the US 10-year bonds, which had recently climbed to the 5% mark. Although the exact catalyst behind this wave of dollar selling remains elusive, the market perceives the 5% yield level as a potential short-term peak, possibly prompting a resurgence of value-driven buying, resulting in a reduction in yields.
+"The New York foreign exchange market witnessed a significant surge in US dollar sales today, leading to a temporary dip in the USD/JPY pair, which fell to approximately 149.55 yen"
+
+This sudden drop was instigated by the rapid decrease in the yield of the US 10-year bonds, which had recently climbed to the 5% mark. Although the exact catalyst behind this wave of dollar selling remains elusive, the market perceives the 5% yield level as a potential short-term peak, possibly prompting a resurgence of value-driven buying, resulting in a reduction in yields.
 
 This week marks the blackout period for Federal Reserve committee members' public comments, as we approach the upcoming FOMC meeting next week. Contrary to market expectations, based on the statements made by Federal Reserve Chair Powell last week, it appears that while a rate hike may be postponed this time, there are growing doubts about any further rate hikes. The consensus now leans towards the forthcoming FOMC meeting aligning with Powell's stance.
 
