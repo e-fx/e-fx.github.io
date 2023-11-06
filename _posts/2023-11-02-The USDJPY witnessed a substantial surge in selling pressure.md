@@ -18,7 +18,9 @@ tags:
 author: e-FX
 ---
 
-"In the contemporary New York foreign exchange market, the USD/JPY witnessed a substantial surge in selling pressure, driving it down into the realm of 150 yen per dollar. This decline was predominantly instigated by a noteworthy plunge in U.S. bond yields, which played a pivotal role in enticing traders to engage in extensive selling. The decision from the U.S. Treasury concerning the upcoming quarterly regular auction did not align with the initial expectations, further contributing to the downward momentum. Simultaneously, the ISM Manufacturing Purchasing Managers' Index (PMI) underperformed, intensifying the yield's descent.
+"In the contemporary New York foreign exchange market, the USD/JPY witnessed a substantial surge in selling pressure, driving it down into the realm of 150 yen per dollar"
+
+This decline was predominantly instigated by a noteworthy plunge in U.S. bond yields, which played a pivotal role in enticing traders to engage in extensive selling. The decision from the U.S. Treasury concerning the upcoming quarterly regular auction did not align with the initial expectations, further contributing to the downward momentum. Simultaneously, the ISM Manufacturing Purchasing Managers' Index (PMI) underperformed, intensifying the yield's descent.
 
 During the afternoon, the Federal Open Market Committee (FOMC) unveiled the outcome of its meeting, adhering to projections by maintaining the policy interest rate at its existing level. Although there were some slight alterations in the accompanying statement, it largely echoed the preceding one. Chairman Powell, during his eagerly awaited press conference, adopted a cautious stance, emphasizing the need for prudent consideration given recent developments. However, he also introduced the prospect of justified rate hikes, contingent on the GDP's surpassing of potential growth, while dispelling concerns regarding the resumption of rate hikes after a pause. Notably, he clarified that rate cuts had not been under consideration, discussion, or even mentioned.
 
