@@ -18,7 +18,9 @@ tags:
 author: e-FX
 ---
 
-"In the New York foreign exchange market today, a clear trend has emerged favoring the U.S. dollar, exerting a positive influence on the USD/JPY exchange rate, which has consistently maintained its position within the 150-yen range. Recent developments following the release of U.S. employment statistics last week had initially raised concerns of potential downside risks as the 150-yen threshold was temporarily breached. Nevertheless, market sentiment continues to exhibit substantial interest in purchasing the U.S. dollar when opportunities arise.
+"A clear trend has emerged favoring the U.S. dollar, exerting a positive influence on the USD/JPY exchange rate, which has consistently maintained its position within the 150-yen range"
+
+Recent developments following the release of U.S. employment statistics last week had initially raised concerns of potential downside risks as the 150-yen threshold was temporarily breached. Nevertheless, market sentiment continues to exhibit substantial interest in purchasing the U.S. dollar when opportunities arise.
 
 The decision by the Federal Reserve to halt its rate-hike cycle, combined with the likelihood of the Bank of Japan pursuing a more cautious approach to tightening, has instilled confidence in the market. This confidence stems from the expectation that a significant yield differential will persist between the United States and Japan. Such a scenario provides crucial support to the USD/JPY exchange rate.
 
