@@ -1,7 +1,7 @@
 ---
 date: 2023-11-13 12:00:00
 layout: post
-title: A sudden intensification in the selling pressure on the dollar caused a swift depreciation against the yen
+title: A sudden intensification caused a swift depreciation against the yen
 subtitle: plunging from the mid-151 yen range to approximately 151.20 yen. 
 description: A sudden intensification in the selling pressure on the dollar caused a swift depreciation against the yen, plunging from the mid-151 yen range to approximately 151.20 yen.
 image: https://e-fx.github.io/assets/img/news-20231114.jpg
