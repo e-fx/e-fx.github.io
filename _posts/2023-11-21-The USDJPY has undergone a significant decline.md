@@ -2,7 +2,7 @@
 date: 2023-11-20 12:00:00
 layout: post
 title: The USDJPY has undergone a significant decline
-subtitle:  penetrating the mid-148 yen threshold during the London trading session.
+subtitle: penetrating the mid-148 yen threshold during the London trading session.
 description: The USDJPY has undergone a significant decline,  penetrating the mid-148 yen threshold during the London trading session.
 image: https://e-fx.github.io/assets/img/news-20231121.jpg
 category: news
