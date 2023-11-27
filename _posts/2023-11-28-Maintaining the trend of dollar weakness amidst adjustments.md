@@ -1,10 +1,10 @@
 ---
-date: 2023-11-23 12:00:00
+date: 2023-11-27 12:00:00
 layout: post
 title: Maintaining the trend of dollar weakness amidst adjustments
 subtitle: Dollar/Yen hovers around 149 in London's forex overview.
 description: Maintaining the trend of dollar weakness amidst adjustments, Dollar/Yen hovers around 149 in London's forex overview.
-image: https://e-fx.github.io/assets/img/news-20231124.jpg
+image: https://e-fx.github.io/assets/img/news-20231128.jpg
 category: news
 tags:
   - JPY
