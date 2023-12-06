@@ -1,7 +1,7 @@
 ---
 date: 2023-12-06 12:00:00
 layout: post
-title: The dollar witnessed a momentary dip followed by a resilient recovery in the London foreign exchange market analysis
+title: The dollar witnessed a momentary dip followed by a resilient recovery
 subtitle: in the dynamic landscape of U.S. Treasury bond yields.
 description:  The dollar witnessed a momentary dip followed by a resilient recovery in the London foreign exchange market analysis, in the dynamic landscape of U.S. Treasury bond yields.
 image: https://e-fx.github.io/assets/img/news-20231207.jpg
