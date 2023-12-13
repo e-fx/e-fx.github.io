@@ -3,7 +3,7 @@ date: 2023-12-13 12:00:00
 layout: post
 title: European currencies displayed a subdued performance
 subtitle: with both the Euro and the Pound exhibiting signs of weakness.
-description:European currencies displayed a subdued performance, with both the Euro and the Pound exhibiting signs of weakness. 
+description: European currencies displayed a subdued performance, with both the Euro and the Pound exhibiting signs of weakness. 
 image: https://e-fx.github.io/assets/img/news-20231214.jpg
 category: news
 tags:
