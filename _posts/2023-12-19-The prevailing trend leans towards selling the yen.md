@@ -17,7 +17,9 @@ tags:
 author: e-FX
 ---
 
-"In the ever-evolving forex arena, a prevailing inclination towards yen selling is evident, propelling the USD/JPY pair from the mid-142 yen range to approximately 142.80 yen. The persistent decline in US bond yields, witnessed from the Tokyo morning to the afternoon, witnessed a temporary halt, resulting in a respite from the selling pressure on the dollar. As we approach the Bank of Japan meeting scheduled for tomorrow and the subsequent revelation of its outcomes, a shift in market sentiment has materialized, primarily propelled by adjustments to yen-buying positions accumulated during the recent phase of yen appreciation.
+"In the ever-evolving forex arena, a prevailing inclination towards yen selling is evident, propelling the USD/JPY pair from the mid-142 yen range to approximately 142.80 yen"
+
+The persistent decline in US bond yields, witnessed from the Tokyo morning to the afternoon, witnessed a temporary halt, resulting in a respite from the selling pressure on the dollar. As we approach the Bank of Japan meeting scheduled for tomorrow and the subsequent revelation of its outcomes, a shift in market sentiment has materialized, primarily propelled by adjustments to yen-buying positions accumulated during the recent phase of yen appreciation.
 
 Speculation surrounding the Bank of Japan meeting has triggered discussions, particularly among foreign investors, regarding the potential normalization of negative interest rates. However, insights from domestic sources indicate that any signals indicating the removal of negative interest rates are more likely to transpire in the January meeting, with subsequent considerations for March or April. This perspective has gained international recognition, fostering an environment conducive to yen selling.
 
