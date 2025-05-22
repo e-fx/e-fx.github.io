@@ -1,5 +1,5 @@
 ---
-date: 2025-05-13 13:24:49
+date: 2025-05-21 13:24:49
 layout: post
 title: How to open a XM trading account and get $30 Bonus?
 subtitle: Just about 2 minutes will be required until you complete XM account application.
