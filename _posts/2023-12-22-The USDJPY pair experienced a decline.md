@@ -15,7 +15,9 @@ tags:
 author: e-FX
 ---
 
-"In the recent analysis of the New York forex market, the USD/JPY pair faced a decline, settling in the mid-142 yen range. Renewed selling pressure became apparent, breaking through the crucial 200-day moving average at approximately 142.70 yen. This downward movement was spurred by the downward revision of the third-quarter US GDP, intensifying the selling momentum amidst a notable drop in US equities on the preceding day. This reflects a persistent trend of investors seeking refuge in the safe-haven yen. Despite initial expectations of a potential weakening of the yen towards 145 yen, following the Bank of Japan's recent decision, the currency fell short of reaching that level. Instead, it experienced a loss of momentum, finding support around 142.70 yen, marked by the 200-day moving average. As the market anticipates potential developments in the coming days, concerns about downside risks persist.
+"In the recent analysis of the New York forex market, the USD/JPY pair faced a decline, settling in the mid-142 yen range. Renewed selling pressure became apparent, breaking through the crucial 200-day moving average at approximately 142.70 yen"
+
+This downward movement was spurred by the downward revision of the third-quarter US GDP, intensifying the selling momentum amidst a notable drop in US equities on the preceding day. This reflects a persistent trend of investors seeking refuge in the safe-haven yen. Despite initial expectations of a potential weakening of the yen towards 145 yen, following the Bank of Japan's recent decision, the currency fell short of reaching that level. Instead, it experienced a loss of momentum, finding support around 142.70 yen, marked by the 200-day moving average. As the market anticipates potential developments in the coming days, concerns about downside risks persist.
 
 Notwithstanding numerous cautionary statements from FOMC members, market sentiment is factoring in a cumulative 1.50% cut in Federal Reserve interest rates next year. The expectation of a US rate cut is exerting upward pressure on the USD/JPY pair.
 
