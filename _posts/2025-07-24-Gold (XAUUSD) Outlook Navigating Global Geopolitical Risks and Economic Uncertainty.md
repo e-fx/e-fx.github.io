@@ -2,7 +2,7 @@
 date: 2025-07-24 12:00:00
 layout: post
 title: Gold (XAUUSD) Outlook Navigating Global Geopolitical Risks and Economic Uncertainty
-subtitle: Navigating Global Geopolitical Risks and Economic Uncertainty
+subtitle: Geopolitical Risks Fueling Demand for Gold
 description: As of July 2025, the world remains gripped by geopolitical tensions and economic instability, prompting investors to reassess gold (XAUUSD) as a critical safe-haven asset. 
 image: https://e-fx.github.io/assets/img/news-20250724.jpg
 category: news

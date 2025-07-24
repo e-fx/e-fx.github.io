@@ -4,7 +4,7 @@ layout: post
 title: USDJPY Outlook Navigating Geopolitical Risks and Global Economic Crosswinds
 subtitle: Escalating Geopolitical Tensions and the Dollar’s Safe-Haven Status
 description: As we move through the middle of 2025, the USD/JPY exchange rate remains elevated, with the U.S. dollar staying strong and the Japanese yen under continued pressure. 
-image: https://e-fx.github.io/assets/img/news-20250724.jpg
+image: https://e-fx.github.io/assets/img/news-20250723.jpg
 category: news
 tags:
   - JPY
