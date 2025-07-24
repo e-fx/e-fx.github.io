@@ -23,7 +23,7 @@ Meanwhile, global central banks—especially in emerging markets—have been act
 ### U.S. Economic Policy: A Key Factor Limiting Gold's Upside
 One of the primary headwinds for gold remains the U.S. monetary policy trajectory. Although inflation in the U.S. has somewhat eased, the Federal Reserve continues to maintain a "higher for longer" stance on interest rates.
 
-As a non-yielding asset, gold tends to underperform in a high interest rate environment. Rising U.S. Treasury yields, particularly the 10-year bond, are placing a ceiling on gold’s upward momentum. In the short term, the XAUUSD pair is likely to remain in a consolidation range between $1,950 and $2,050.
+As a non-yielding asset, gold tends to underperform in a high interest rate environment. Rising U.S. Treasury yields, particularly the 10-year bond, are placing a ceiling on gold’s upward momentum. In the short term, the XAUUSD pair is likely to remain in a consolidation range between $3,300 and $3,400.
 
 ### Slowing Global Growth Reinforces the Case for Gold
 Beyond the U.S., signs of economic deceleration are also visible in the Eurozone and China. China's persistent property crisis and weakening domestic demand are fueling global growth concerns. In such a deflationary or recessionary environment, gold often regains attention as a hedge against economic instability.
@@ -31,7 +31,7 @@ Beyond the U.S., signs of economic deceleration are also visible in the Eurozone
 Simultaneously, growing concerns over fiscal deficits and long-term fiat currency debasement are pushing both private and sovereign investors toward gold as a store of value. Trust in fiat currencies, particularly the U.S. dollar, is facing increasing scrutiny—creating favorable conditions for gold accumulation.
 
 ### Future Outlook: Medium to Long-Term Bullish Trend Intact
-While short-term fluctuations will likely hinge on future moves by the Federal Reserve, the medium- to long-term outlook for gold remains broadly bullish. The potential for gold to surpass the $2,100 mark and reach new all-time highs is firmly within reach.
+While short-term fluctuations will likely hinge on future moves by the Federal Reserve, the medium- to long-term outlook for gold remains broadly bullish. The potential for gold to surpass the $3,500 mark and reach new all-time highs is firmly within reach.
 
 Key factors to watch include:
 
