@@ -1,5 +1,5 @@
 ---
-date: 2025-07-25 00:00:00
+date: 2025-08-03 00:00:00
 layout: post
 title: Mexican Peso (MXN) Outlook
 subtitle: A Currency Balancing Solid Fundamentals and Geopolitical Risks

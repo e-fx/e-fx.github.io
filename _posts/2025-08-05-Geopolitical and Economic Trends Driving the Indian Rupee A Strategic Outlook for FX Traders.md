@@ -1,5 +1,5 @@
 ---
-date: 2025-07-25 00:00:00
+date: 2025-08-04 00:00:00
 layout: post
 title: Indian Rupee A Strategic Outlook for FX Traders
 subtitle: Geopolitical and Economic Trends Driving the Indian Rupee
