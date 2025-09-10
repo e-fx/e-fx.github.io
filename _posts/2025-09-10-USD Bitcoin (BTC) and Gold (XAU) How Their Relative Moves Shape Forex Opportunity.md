@@ -7,7 +7,7 @@ description: An economic journalist-style analysis of the dynamic relationship b
 image: https://e-fx.github.io/assets/img/news-20250910.jpg
 category: news
 tags:
-  - GUSD
+  - USD
   - BTC
   - XAU
   - forex
