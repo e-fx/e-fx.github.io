@@ -80,7 +80,7 @@ For those navigating this market, disciplined risk management and macro awarenes
 
 👇PDF with chart, and  a deeper scenario breakdown and risk management tips
 
-Download [PDF(USD MYR Trading Brief with Chart)](https://e-fx.github.io/pdf/USD_MYR_Trading_Brief_with_Chart.pdf)
+Download [PDF(USD MYR Trading Brief With Chart)](https://e-fx.github.io/pdf/USD_MYR_Trading_Brief_With_Chart.pdf)
 
 
 ---
