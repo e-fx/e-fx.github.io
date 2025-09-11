@@ -78,6 +78,4 @@ The outlook for USD/MYR in late 2025 will be shaped by the tug-of-war between Fe
 For those navigating this market, disciplined risk management and macro awareness are essential.  
 
 
-👇PDF with chart, and  a deeper scenario breakdown and risk management tips
-
 Visit [XM Official Website](https://clicks.pipaffiliates.com/c?c=550036&l=en&p=0).
