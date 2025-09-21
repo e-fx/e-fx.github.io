@@ -12,9 +12,6 @@ tags:
   - Malaysian Ringgit
   - Forex Forecast
   - Bank Negara Malaysia
-  - Federal Reserve
-  - Geopolitical Risks
-  - Emerging Market Currencies
 author: e-FX
 ---
 
