@@ -113,31 +113,26 @@ flowchart TB
   A --> D[EVENT STRADDLE / VOL PLAY]
   A --> E[STRATEGIC DIP BUY]
 
-  %% Fed Dovish Pivot branch
   B --> B1[Entry: Confirm dovish language or major cut priced]
   B1 --> B2[Position: Long XAU/USD or call spread]
   B2 --> B3[Stop: below recent swing low (~4050)]
   B2 --> B4[Target: 4400 - 4600]
 
-  %% Range branch
   C --> C1[Entry: Price approaches range top (~4600)]
   C1 --> C2[Position: Short the range / sell rallies]
   C2 --> C3[Stop: above range plus vol buffer (~4650)]
   C2 --> C4[Target: 4300 - 4200]
 
-  %% Event straddle branch
   D --> D1[Entry: 1-3 days before major release (FOMC, NFP)]
   D1 --> D2[Position: Buy straddle or long strangle]
   D2 --> D3[Risk: time decay; monitor implied vol]
   D2 --> D4[Outcome: up move -> 4500+ ; down move -> 3800 - 4000]
 
-  %% Strategic dip buy branch
   E --> E1[Entry: Dip to 4000 or lower or real-yield decline]
   E1 --> E2[Position: Accumulate in tranches (DCA)]
   E2 --> E3[Stop: portfolio-wide loss tolerance]
   E2 --> E4[Target: 4600 - 5000]
 
-  %% Subgraph last
   subgraph RiskMgmt[RISK MANAGEMENT]
     R1[Define max portfolio percent]
     R2[Use options or spreads]
@@ -145,19 +140,18 @@ flowchart TB
     R4[Adjust on major news]
   end
 
-  %% External links AFTER subgraph
   B2 --> R1
   C2 --> R3
   D2 --> R2
   E2 --> R4
 
-  %% Styles at the end
   style B1 fill:#f7fbff,stroke:#2b6ac0
   style B4 fill:#dff0ff,stroke:#2b6ac0
   style C2 fill:#fff8f0,stroke:#c07400
   style D2 fill:#f0fff4,stroke:#2b8a3e
   style E2 fill:#fff7ff,stroke:#8a2b8a
 </div>
+
 
 
 
