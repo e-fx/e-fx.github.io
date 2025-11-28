@@ -1,5 +1,5 @@
 ---
-date: 2025-11-08 00:00:00
+date: 2025-11-28 00:00:00
 layout: post
 title: Gold (XAU/USD) 
 subtitle: Year-End Outlook
