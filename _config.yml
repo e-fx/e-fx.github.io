@@ -51,9 +51,6 @@ sent_message_url: "/contact/message-sent/"
 
 # Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  parse_block_html: true
 highlighter: rouge
 permalink: /:title/
 collections:
