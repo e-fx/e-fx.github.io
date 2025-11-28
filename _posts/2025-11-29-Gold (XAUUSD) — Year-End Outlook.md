@@ -101,53 +101,59 @@ gantt
 ## Tactical trade setups — flowchart (entries / stops / targets)
 
 <div class="mermaid">
-flowchart LR
+flowchart TD
   Start([Tactical Ideas]) --> A{Strategy Type}
   A --> B[FED DOVISH PIVOT]
   A --> C[RANGE / MEAN REVERSION]
   A --> D[EVENT STRADDLE / VOL PLAY]
   A --> E[STRATEGIC DIP BUY]
 
-%% Fed Dovish Pivot branch
-B --> B1[Entry: Confirm dovish language OR major cut priced]
-B1 --> B2[Position: Long XAU/USD or call spread]
-B2 --> B3[Stop: below recent swing low (~$4,050)]
-B2 --> B4[Target: $4,400 → $4,600]
-style B1 fill:#f7fbff,stroke:#2b6ac0
-style B4 fill:#dff0ff,stroke:#2b6ac0
+  %% Fed Dovish Pivot branch
+  B --> B1[Entry: Confirm dovish language or major cut priced]
+  B1 --> B2[Position: Long XAU/USD or call spread]
+  B2 --> B3[Stop: below recent swing low (~4050)]
+  B2 --> B4[Target: 4400 - 4600]
 
-%% Range branch
-C --> C1[Entry: Price approaches range top (~$4,600)]
-C1 --> C2[Position: Short the range / sell rallies]
-C2 --> C3[Stop: small, above range + volatility buffer (~$4,650)]
-C2 --> C4[Target: mid-range / support $4,300–$4,200]
-style C2 fill:#fff8f0,stroke:#c07400
+  %% Range branch
+  C --> C1[Entry: Price approaches range top (~4600)]
+  C1 --> C2[Position: Short the range / sell rallies]
+  C2 --> C3[Stop: above range plus vol buffer (~4650)]
+  C2 --> C4[Target: mid-range or support 4300-4200]
 
-%% Event straddle branch
-D --> D1[Entry: 1–3 days before major release (FOMC, NFP)]
-D1 --> D2[Position: Buy straddle or long strangle (defined sizing)]
-D2 --> D3[Risk: time decay; monitor implied vol]
-D2 --> D4[Scenario outcomes: big move up → target $4,500+; big move down → target $3,800–$4,000]
-style D2 fill:#f0fff4,stroke:#2b8a3e
+  %% Event straddle branch
+  D --> D1[Entry: 1-3 days before major release (FOMC, NFP)]
+  D1 --> D2[Position: Buy straddle or long strangle]
+  D2 --> D3[Risk: time decay; monitor implied vol]
+  D2 --> D4[Outcomes: up move -> target 4500+; down move -> 3800-4000]
 
-%% Strategic dip buy branch
-E --> E1[Entry: Dip to $4,000 or lower OR sustained real-yield fall]
-E1 --> E2[Position: Accumulate in tranches (DCA)]
-E2 --> E3[Stop: portfolio-level loss tolerance; avoid single large stop]
-E2 --> E4[Target: medium-term $4,600–$5,000 depending on macro]
-style E2 fill:#fff7ff,stroke:#8a2b8a
+  %% Strategic dip buy branch
+  E --> E1[Entry: Dip to 4000 or lower or sustained real-yield fall]
+  E1 --> E2[Position: Accumulate in tranches (DCA)]
+  E2 --> E3[Stop: portfolio-level loss limit]
+  E2 --> E4[Target: 4600-5000 medium term]
 
-%% Safety / adjustments
-subgraph RiskMgmt["Risk Management"]
-R1[Define max portfolio %] --> R2[Use options or spreads to cap losses]
-R3[Scale into positions] --> R4[Adjust on major news]
-end
-B2 --> R1
-C2 --> R3
-D2 --> R2
-E2 --> R4
+  %% Subgraph last (to avoid connection bugs)
+  subgraph RiskMgmt[RISK MANAGEMENT]
+    R1[Define max portfolio percent]
+    R2[Use options or spreads]
+    R3[Scale into positions]
+    R4[Adjust on major news]
+  end
 
+  %% External connections AFTER subgraph definition
+  B2 --> R1
+  C2 --> R3
+  D2 --> R2
+  E2 --> R4
+
+  %% Styles must use ASCII only
+  style B1 fill:#f7fbff,stroke:#2b6ac0
+  style B4 fill:#dff0ff,stroke:#2b6ac0
+  style C2 fill:#fff8f0,stroke:#c07400
+  style D2 fill:#f0fff4,stroke:#2b8a3e
+  style E2 fill:#fff7ff,stroke:#8a2b8a
 </div>
+
 
 ---
 
