@@ -104,56 +104,47 @@ timeline
 
 ## Tactical trade setups — flowchart (entries / stops / targets)
 
-<div class="mermaid">
-flowchart TB
+### Strategy Types
 
-  Start([Tactical Ideas]) --> A{Strategy Type}
-  A --> B[FED DOVISH PIVOT]
-  A --> C[RANGE / MEAN REVERSION]
-  A --> D[EVENT STRADDLE / VOL PLAY]
-  A --> E[STRATEGIC DIP BUY]
+1. **FED DOVISH PIVOT**
 
-  B --> B1[Entry: Confirm dovish language or major cut priced]
-  B1 --> B2[Position: Long XAU/USD or call spread]
-  B2 --> B3[Stop: below recent swing low (~4050)]
-  B2 --> B4[Target: 4400 - 4600]
+   * **Entry:** Confirm dovish language or major cut priced
+   * **Position:** Long XAU/USD or call spread
+   * **Stop:** Below recent swing low (~4050)
+   * **Target:** 4400 – 4600
 
-  C --> C1[Entry: Price approaches range top (~4600)]
-  C1 --> C2[Position: Short the range / sell rallies]
-  C2 --> C3[Stop: above range plus vol buffer (~4650)]
-  C2 --> C4[Target: 4300 - 4200]
+2. **RANGE / MEAN REVERSION**
 
-  D --> D1[Entry: 1-3 days before major release (FOMC, NFP)]
-  D1 --> D2[Position: Buy straddle or long strangle]
-  D2 --> D3[Risk: time decay; monitor implied vol]
-  D2 --> D4[Outcome: up move -> 4500+ ; down move -> 3800 - 4000]
+   * **Entry:** Price approaches range top (~4600)
+   * **Position:** Short the range / sell rallies
+   * **Stop:** Above range plus volatility buffer (~4650)
+   * **Target:** Mid-range / support 4300 – 4200
 
-  E --> E1[Entry: Dip to 4000 or lower or real-yield decline]
-  E1 --> E2[Position: Accumulate in tranches (DCA)]
-  E2 --> E3[Stop: portfolio-wide loss tolerance]
-  E2 --> E4[Target: 4600 - 5000]
+3. **EVENT STRADDLE / VOL PLAY**
 
-  subgraph RiskMgmt[RISK MANAGEMENT]
-    R1[Define max portfolio percent]
-    R2[Use options or spreads]
-    R3[Scale into positions]
-    R4[Adjust on major news]
-  end
+   * **Entry:** 1–3 days before major release (FOMC, NFP)
+   * **Position:** Buy straddle or long strangle
+   * **Risk:** Time decay; monitor implied volatility
+   * **Outcome:**
 
-  B2 --> R1
-  C2 --> R3
-  D2 --> R2
-  E2 --> R4
+     * Up move → target 4500+
+     * Down move → target 3800 – 4000
 
-  style B1 fill:#f7fbff,stroke:#2b6ac0
-  style B4 fill:#dff0ff,stroke:#2b6ac0
-  style C2 fill:#fff8f0,stroke:#c07400
-  style D2 fill:#f0fff4,stroke:#2b8a3e
-  style E2 fill:#fff7ff,stroke:#8a2b8a
-</div>
+4. **STRATEGIC DIP BUY**
 
+   * **Entry:** Dip to 4000 or lower or sustained real-yield decline
+   * **Position:** Accumulate in tranches (DCA)
+   * **Stop:** Portfolio-level loss tolerance; avoid single large stop
+   * **Target:** Medium-term 4600 – 5000
 
+---
 
+### Risk Management
+
+* **Define max portfolio %**
+* **Use options or spreads** to limit losses
+* **Scale into positions**
+* **Adjust on major news**
 
 
 ---
